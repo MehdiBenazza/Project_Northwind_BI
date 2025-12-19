@@ -149,9 +149,9 @@ These indicators support **strategic and operational decision-making**.
 ### 1️ Install dependencies
 ```bash
 pip install streamlit pandas pyodbc matplotlib seaborn
-
+```
 ### 2 Run the Streamlit app
 ```bash
 python -m streamlit run scripts/app.py
-
+```
 
