@@ -1,0 +1,1811 @@
+OrderID,ProductID,UnitPrice,Quantity,Discount,TotalPrice,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry,Year,Month,Day,OrderDate_iso,ProductName,CategoryID,SupplierID,ShipperID,TotalSales
+10248,11,14.0,12,0.0,168.0,VINET,5,1996-07-04,1996-08-01,1996-07-16,3.0,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,7.0,4.0,1996-07-04,Queso Cabrales,4.0,5.0,3,168.0
+10248,42,9.8,10,0.0,98.0,VINET,5,1996-07-04,1996-08-01,1996-07-16,3.0,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,7.0,4.0,1996-07-04,Singaporean Hokkien Fried Mee,5.0,20.0,3,98.0
+10248,72,34.8,5,0.0,174.0,VINET,5,1996-07-04,1996-08-01,1996-07-16,3.0,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,7.0,4.0,1996-07-04,Mozzarella di Giovanni,4.0,14.0,3,174.0
+10249,14,18.6,9,0.0,167.4,TOMSP,6,1996-07-05,1996-08-16,1996-07-10,1.0,11.61,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,7.0,5.0,1996-07-05,Tofu,7.0,6.0,1,167.4
+10249,51,42.4,40,0.0,1696.0,TOMSP,6,1996-07-05,1996-08-16,1996-07-10,1.0,11.61,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,7.0,5.0,1996-07-05,Manjimup Dried Apples,7.0,24.0,1,1696.0
+10250,41,7.7,10,0.0,77.0,HANAR,4,1996-07-08,1996-08-05,1996-07-12,2.0,65.83,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,7.0,8.0,1996-07-08,Jack's New England Clam Chowder,8.0,19.0,2,77.0
+10250,51,42.4,35,0.0,1484.0,HANAR,4,1996-07-08,1996-08-05,1996-07-12,2.0,65.83,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,7.0,8.0,1996-07-08,Manjimup Dried Apples,7.0,24.0,2,1484.0
+10250,65,16.8,15,0.0,252.0,HANAR,4,1996-07-08,1996-08-05,1996-07-12,2.0,65.83,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,7.0,8.0,1996-07-08,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,2,252.0
+10251,22,16.8,6,0.050000000745058,95.75999992489817,VICTE,3,1996-07-08,1996-08-05,1996-07-15,1.0,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,1996.0,7.0,8.0,1996-07-08,Gustaf's Knäckebröd,5.0,9.0,1,95.75999992489817
+10251,57,15.6,15,0.050000000745058,222.29999982565644,VICTE,3,1996-07-08,1996-08-05,1996-07-15,1.0,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,1996.0,7.0,8.0,1996-07-08,Ravioli Angelo,5.0,26.0,1,222.29999982565644
+10252,20,64.8,40,0.050000000745058,2462.39999806881,SUPRD,4,1996-07-09,1996-08-06,1996-07-11,2.0,51.3,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,1996.0,7.0,9.0,1996-07-09,Sir Rodney's Marmalade,3.0,8.0,2,2462.39999806881
+10252,33,2.0,25,0.0,50.0,SUPRD,4,1996-07-09,1996-08-06,1996-07-11,2.0,51.3,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,1996.0,7.0,9.0,1996-07-09,Geitost,4.0,15.0,2,50.0
+10253,31,10.0,20,0.0,200.0,HANAR,3,1996-07-10,1996-07-24,1996-07-16,2.0,58.17,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,7.0,10.0,1996-07-10,Gorgonzola Telino,4.0,14.0,2,200.0
+10253,39,14.4,42,0.0,604.8000000000001,HANAR,3,1996-07-10,1996-07-24,1996-07-16,2.0,58.17,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,7.0,10.0,1996-07-10,Chartreuse verte,1.0,18.0,2,604.8000000000001
+10253,49,16.0,40,0.050000000745058,607.999999523163,HANAR,3,1996-07-10,1996-07-24,1996-07-16,2.0,58.17,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,7.0,10.0,1996-07-10,Maxilaku,3.0,23.0,2,607.999999523163
+10254,24,3.6,15,0.0,54.0,CHOPS,5,1996-07-11,1996-08-08,1996-07-23,2.0,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,1996.0,7.0,11.0,1996-07-11,Guaraná Fantástica,1.0,10.0,2,54.0
+10254,55,19.2,21,0.0,403.2,CHOPS,5,1996-07-11,1996-08-08,1996-07-23,2.0,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,1996.0,7.0,11.0,1996-07-11,Pâté chinois,6.0,25.0,2,403.2
+10255,2,15.2,20,0.0,304.0,RICSU,9,1996-07-12,1996-08-09,1996-07-15,3.0,148.33,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland,1996.0,7.0,12.0,1996-07-12,Chang,1.0,1.0,3,304.0
+10255,16,13.9,35,0.0,486.5,RICSU,9,1996-07-12,1996-08-09,1996-07-15,3.0,148.33,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland,1996.0,7.0,12.0,1996-07-12,Pavlova,3.0,7.0,3,486.5
+10255,36,15.2,25,0.0,380.0,RICSU,9,1996-07-12,1996-08-09,1996-07-15,3.0,148.33,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland,1996.0,7.0,12.0,1996-07-12,Inlagd Sill,8.0,17.0,3,380.0
+10255,59,44.0,30,0.0,1320.0,RICSU,9,1996-07-12,1996-08-09,1996-07-15,3.0,148.33,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland,1996.0,7.0,12.0,1996-07-12,Raclette Courdavault,4.0,28.0,3,1320.0
+10256,53,26.2,15,0.1000000014901161,353.69999941438437,WELLI,3,1996-07-15,1996-08-12,1996-07-17,2.0,13.97,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737363,Brazil,1996.0,7.0,15.0,1996-07-15,Perth Pasties,6.0,24.0,2,353.69999941438437
+10256,77,10.4,12,0.1000000014901161,112.31999981403352,WELLI,3,1996-07-15,1996-08-12,1996-07-17,2.0,13.97,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737363,Brazil,1996.0,7.0,15.0,1996-07-15,Original Frankfurter grüne Soße,2.0,12.0,2,112.31999981403352
+10257,27,35.1,25,0.0,877.5,HILAA,4,1996-07-16,1996-08-27,1996-07-22,2.0,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,7.0,16.0,1996-07-16,Schoggi Schokolade,3.0,11.0,2,877.5
+10257,39,14.4,6,0.0,86.4,HILAA,4,1996-07-16,1996-08-27,1996-07-22,2.0,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,7.0,16.0,1996-07-16,Chartreuse verte,1.0,18.0,2,86.4
+10257,77,10.4,15,0.0,156.0,HILAA,4,1996-07-16,1996-08-27,1996-07-22,2.0,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,7.0,16.0,1996-07-16,Original Frankfurter grüne Soße,2.0,12.0,2,156.0
+10258,2,15.2,50,0.2000000029802322,607.9999977350235,ERNSH,1,1996-07-17,1996-08-14,1996-07-23,1.0,140.51,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,1996.0,7.0,17.0,1996-07-17,Chang,1.0,1.0,1,607.9999977350235
+10258,5,17.0,65,0.2000000029802322,883.9999967068434,ERNSH,1,1996-07-17,1996-08-14,1996-07-23,1.0,140.51,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,1996.0,7.0,17.0,1996-07-17,Chef Anton's Gumbo Mix,2.0,2.0,1,883.9999967068434
+10258,32,25.6,6,0.2000000029802322,122.87999954223635,ERNSH,1,1996-07-17,1996-08-14,1996-07-23,1.0,140.51,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,1996.0,7.0,17.0,1996-07-17,Mascarpone Fabioli,4.0,14.0,1,122.87999954223635
+10258,62,39.4,40,0.2000000029802322,1260.799995303154,ERNSH,1,1996-07-17,1996-08-14,1996-07-23,1.0,140.51,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,1996.0,7.0,17.0,1996-07-17,Tarte au sucre,3.0,29.0,1,1260.799995303154
+10259,18,50.0,12,0.0,600.0,CENTC,4,1996-07-18,1996-08-15,1996-07-25,3.0,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,México D.F.,,05022,Mexico,1996.0,7.0,18.0,1996-07-18,Carnarvon Tigers,8.0,7.0,3,600.0
+10259,28,36.4,8,0.0,291.2,CENTC,4,1996-07-18,1996-08-15,1996-07-25,3.0,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,México D.F.,,05022,Mexico,1996.0,7.0,18.0,1996-07-18,Rössle Sauerkraut,7.0,12.0,3,291.2
+10259,34,11.2,10,0.0,112.0,CENTC,4,1996-07-18,1996-08-15,1996-07-25,3.0,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,México D.F.,,05022,Mexico,1996.0,7.0,18.0,1996-07-18,Sasquatch Ale,1.0,16.0,3,112.0
+10259,71,17.2,5,0.0,86.0,CENTC,4,1996-07-18,1996-08-15,1996-07-25,3.0,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,México D.F.,,05022,Mexico,1996.0,7.0,18.0,1996-07-18,Flotemysost,4.0,15.0,3,86.0
+10260,40,14.7,70,0.1500000059604644,874.6499938666822,OTTIK,4,1996-07-19,1996-08-16,1996-07-29,1.0,55.09,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany,1996.0,7.0,19.0,1996-07-19,Boston Crab Meat,8.0,19.0,1,874.6499938666822
+10260,41,7.7,55,0.1500000059604644,359.97499747574335,OTTIK,4,1996-07-19,1996-08-16,1996-07-29,1.0,55.09,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany,1996.0,7.0,19.0,1996-07-19,Jack's New England Clam Chowder,8.0,19.0,1,359.97499747574335
+10261,25,11.2,50,0.0,560.0,QUEDE,4,1996-07-22,1996-08-19,1996-07-31,2.0,3.05,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389890,Brazil,1996.0,7.0,22.0,1996-07-22,NuNuCa Nuß-Nougat-Creme,3.0,11.0,2,560.0
+10261,75,6.2,6,0.0,37.2,QUEDE,4,1996-07-22,1996-08-19,1996-07-31,2.0,3.05,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389890,Brazil,1996.0,7.0,22.0,1996-07-22,Rhönbräu Klosterbier,1.0,12.0,2,37.2
+10262,24,3.6,15,0.050000000745058,51.29999995976687,RATTC,8,1996-07-23,1996-08-20,1996-07-30,3.0,48.29,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,1996.0,7.0,23.0,1996-07-23,Guaraná Fantástica,1.0,10.0,3,51.29999995976687
+10262,42,9.8,100,0.050000000745058,930.9999992698433,RATTC,8,1996-07-23,1996-08-20,1996-07-30,3.0,48.29,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,1996.0,7.0,23.0,1996-07-23,Singaporean Hokkien Fried Mee,5.0,20.0,3,930.9999992698433
+10262,51,42.4,35,0.050000000745058,1409.799998894334,RATTC,8,1996-07-23,1996-08-20,1996-07-30,3.0,48.29,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,1996.0,7.0,23.0,1996-07-23,Manjimup Dried Apples,7.0,24.0,3,1409.799998894334
+10263,17,31.2,50,0.1000000014901161,1403.9999976754189,ERNSH,9,1996-07-24,1996-08-21,1996-08-07,3.0,146.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,1996.0,7.0,24.0,1996-07-24,Alice Mutton,6.0,7.0,3,1403.9999976754189
+10263,70,12.0,12,0.1000000014901161,129.59999978542328,ERNSH,9,1996-07-24,1996-08-21,1996-08-07,3.0,146.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,1996.0,7.0,24.0,1996-07-24,Outback Lager,1.0,7.0,3,129.59999978542328
+10264,24,3.6,25,0.0,90.0,FAMIA,4,1996-07-25,1996-08-22,1996-07-29,3.0,3.01,Familia Arquibaldo,"Rua Orós, 92",São Paulo,SP,05442030,Brazil,1996.0,7.0,25.0,1996-07-25,Guaraná Fantástica,1.0,10.0,3,90.0
+10264,55,19.2,25,0.0,480.0,FAMIA,4,1996-07-25,1996-08-22,1996-07-29,3.0,3.01,Familia Arquibaldo,"Rua Orós, 92",São Paulo,SP,05442030,Brazil,1996.0,7.0,25.0,1996-07-25,Pâté chinois,6.0,25.0,3,480.0
+10265,7,24.0,45,0.0,1080.0,WANDK,2,1996-07-26,1996-08-09,1996-07-31,2.0,36.71,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,7.0,26.0,1996-07-26,Uncle Bob's Organic Dried Pears,7.0,3.0,2,1080.0
+10265,56,38.0,16,0.0,608.0,WANDK,2,1996-07-26,1996-08-09,1996-07-31,2.0,36.71,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,7.0,26.0,1996-07-26,Gnocchi di nonna Alice,5.0,26.0,2,608.0
+10265,65,16.8,20,0.0,336.0,WANDK,2,1996-07-26,1996-08-09,1996-07-31,2.0,36.71,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,7.0,26.0,1996-07-26,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,2,336.0
+10266,21,8.0,20,0.0,160.0,WANDK,3,1996-07-29,1996-08-26,1996-08-02,1.0,4.54,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,7.0,29.0,1996-07-29,Sir Rodney's Scones,3.0,8.0,1,160.0
+10266,55,19.2,12,0.0,230.39999999999998,WANDK,3,1996-07-29,1996-08-26,1996-08-02,1.0,4.54,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,7.0,29.0,1996-07-29,Pâté chinois,6.0,25.0,1,230.39999999999998
+10267,1,14.4,15,0.25,162.0,LILAS,8,1996-07-30,1996-08-27,1996-08-05,1.0,87.38,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,7.0,30.0,1996-07-30,Chai,1.0,1.0,1,162.0
+10267,28,36.4,20,0.25,546.0,LILAS,8,1996-07-30,1996-08-27,1996-08-05,1.0,87.38,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,7.0,30.0,1996-07-30,Rössle Sauerkraut,7.0,12.0,1,546.0
+10267,62,39.4,35,0.25,1034.25,LILAS,8,1996-07-30,1996-08-27,1996-08-05,1.0,87.38,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,7.0,30.0,1996-07-30,Tarte au sucre,3.0,29.0,1,1034.25
+10268,29,99.0,10,0.0,990.0,CHOPS,3,1996-07-31,1996-08-28,1996-08-06,1.0,3.04,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,1996.0,7.0,31.0,1996-07-31,Thüringer Rostbratwurst,6.0,12.0,1,990.0
+10268,72,34.8,4,0.0,139.2,CHOPS,3,1996-07-31,1996-08-28,1996-08-06,1.0,3.04,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,1996.0,7.0,31.0,1996-07-31,Mozzarella di Giovanni,4.0,14.0,1,139.2
+10269,12,30.4,18,0.0,547.1999999999999,TOMSP,2,1996-08-01,1996-08-29,1996-08-09,1.0,48.34,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,8.0,1.0,1996-08-01,Queso Manchego La Pastora,4.0,5.0,1,547.1999999999999
+10269,24,3.6,15,0.0,54.0,TOMSP,2,1996-08-01,1996-08-29,1996-08-09,1.0,48.34,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,8.0,1.0,1996-08-01,Guaraná Fantástica,1.0,10.0,1,54.0
+10269,64,26.6,8,0.0,212.8,TOMSP,2,1996-08-01,1996-08-29,1996-08-09,1.0,48.34,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,8.0,1.0,1996-08-01,Wimmers gute Semmelknödel,5.0,12.0,1,212.8
+10270,41,7.7,12,0.0,92.4,HILAA,8,1996-08-02,1996-08-30,1996-08-06,2.0,1.66,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,8.0,2.0,1996-08-02,Jack's New England Clam Chowder,8.0,19.0,2,92.4
+10270,55,19.2,20,0.0,384.0,HILAA,8,1996-08-02,1996-08-30,1996-08-06,2.0,1.66,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,8.0,2.0,1996-08-02,Pâté chinois,6.0,25.0,2,384.0
+10271,14,18.6,12,0.0,223.20000000000002,QUICK,1,1996-08-05,1996-09-02,1996-08-12,2.0,3.67,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,5.0,1996-08-05,Tofu,7.0,6.0,2,223.20000000000002
+10271,42,9.8,12,0.0,117.60000000000001,QUICK,1,1996-08-05,1996-09-02,1996-08-12,2.0,3.67,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,5.0,1996-08-05,Singaporean Hokkien Fried Mee,5.0,20.0,2,117.60000000000001
+10271,60,27.2,6,0.0,163.2,QUICK,1,1996-08-05,1996-09-02,1996-08-12,2.0,3.67,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,5.0,1996-08-05,Camembert Pierrot,4.0,28.0,2,163.2
+10272,24,3.6,10,0.0,36.0,BERGS,5,1996-08-06,1996-09-03,1996-08-09,2.0,11.93,Berglunds snabbköp,Berguvsvägen 8,Luleå,,S-958 22,Sweden,1996.0,8.0,6.0,1996-08-06,Guaraná Fantástica,1.0,10.0,2,36.0
+10272,33,2.0,5,0.0,10.0,BERGS,5,1996-08-06,1996-09-03,1996-08-09,2.0,11.93,Berglunds snabbköp,Berguvsvägen 8,Luleå,,S-958 22,Sweden,1996.0,8.0,6.0,1996-08-06,Geitost,4.0,15.0,2,10.0
+10272,68,10.0,15,0.0,150.0,BERGS,5,1996-08-06,1996-09-03,1996-08-09,2.0,11.93,Berglunds snabbköp,Berguvsvägen 8,Luleå,,S-958 22,Sweden,1996.0,8.0,6.0,1996-08-06,Scottish Longbreads,3.0,8.0,2,150.0
+10273,17,31.2,20,0.0,624.0,VINET,6,1996-08-07,1996-09-04,1996-08-14,3.0,23.77,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,8.0,7.0,1996-08-07,Alice Mutton,6.0,7.0,3,624.0
+10273,31,10.0,15,0.0,150.0,VINET,6,1996-08-07,1996-09-04,1996-08-14,3.0,23.77,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,8.0,7.0,1996-08-07,Gorgonzola Telino,4.0,14.0,3,150.0
+10273,70,12.0,12,0.0,144.0,VINET,6,1996-08-07,1996-09-04,1996-08-14,3.0,23.77,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,8.0,7.0,1996-08-07,Outback Lager,1.0,7.0,3,144.0
+10273,75,6.2,12,0.0,74.4,VINET,6,1996-08-07,1996-09-04,1996-08-14,3.0,23.77,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,8.0,7.0,1996-08-07,Rhönbräu Klosterbier,1.0,12.0,3,74.4
+10274,4,17.6,10,0.0,176.0,TOMSP,2,1996-08-08,1996-09-05,1996-08-23,1.0,39.91,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,8.0,8.0,1996-08-08,Chef Anton's Cajun Seasoning,2.0,2.0,1,176.0
+10274,5,17.0,10,0.0,170.0,TOMSP,2,1996-08-08,1996-09-05,1996-08-23,1.0,39.91,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,8.0,8.0,1996-08-08,Chef Anton's Gumbo Mix,2.0,2.0,1,170.0
+10274,23,7.2,5,0.0,36.0,TOMSP,2,1996-08-08,1996-09-05,1996-08-23,1.0,39.91,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,8.0,8.0,1996-08-08,Tunnbröd,5.0,9.0,1,36.0
+10274,42,9.8,20,0.0,196.0,TOMSP,2,1996-08-08,1996-09-05,1996-08-23,1.0,39.91,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany,1996.0,8.0,8.0,1996-08-08,Singaporean Hokkien Fried Mee,5.0,20.0,1,196.0
+10275,7,24.0,12,0.0,288.0,HANAR,1,1996-08-09,1996-09-06,1996-08-16,3.0,14.68,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,8.0,9.0,1996-08-09,Uncle Bob's Organic Dried Pears,7.0,3.0,3,288.0
+10275,56,38.0,12,0.0,456.0,HANAR,1,1996-08-09,1996-09-06,1996-08-16,3.0,14.68,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,8.0,9.0,1996-08-09,Gnocchi di nonna Alice,5.0,26.0,3,456.0
+10275,76,14.4,10,0.0,144.0,HANAR,1,1996-08-09,1996-09-06,1996-08-16,3.0,14.68,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454876,Brazil,1996.0,8.0,9.0,1996-08-09,Lakkalikööri,1.0,23.0,3,144.0
+10276,12,30.4,12,0.0,364.79999999999995,TORTU,8,1996-08-12,1996-09-09,1996-08-15,3.0,13.84,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico,1996.0,8.0,12.0,1996-08-12,Queso Manchego La Pastora,4.0,5.0,3,364.79999999999995
+10276,33,2.0,4,0.0,8.0,TORTU,8,1996-08-12,1996-09-09,1996-08-15,3.0,13.84,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico,1996.0,8.0,12.0,1996-08-12,Geitost,4.0,15.0,3,8.0
+10276,52,5.6,2,0.0,11.2,TORTU,8,1996-08-12,1996-09-09,1996-08-15,3.0,13.84,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico,1996.0,8.0,12.0,1996-08-12,Filo Mix,5.0,24.0,3,11.2
+10276,67,11.2,16,0.0,179.2,TORTU,8,1996-08-12,1996-09-09,1996-08-15,3.0,13.84,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico,1996.0,8.0,12.0,1996-08-12,Laughing Lumberjack Lager,1.0,16.0,3,179.2
+10277,28,36.4,20,0.0,728.0,RATTC,1,1996-08-13,1996-09-10,1996-08-21,2.0,8.53,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,1996.0,8.0,13.0,1996-08-13,Rössle Sauerkraut,7.0,12.0,2,728.0
+10277,62,39.4,12,0.0,472.79999999999995,RATTC,1,1996-08-13,1996-09-10,1996-08-21,2.0,8.53,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,1996.0,8.0,13.0,1996-08-13,Tarte au sucre,3.0,29.0,2,472.79999999999995
+10278,44,15.5,16,0.0,248.0,BERGS,2,1996-08-14,1996-09-11,1996-08-19,2.0,2.51,Berglunds snabbköp,Berguvsvägen 8,Luleå,,S-958 22,Sweden,1996.0,8.0,14.0,1996-08-14,Gula Malacca,2.0,20.0,2,248.0
+10278,59,44.0,15,0.0,660.0,BERGS,2,1996-08-14,1996-09-11,1996-08-19,2.0,2.51,Berglunds snabbköp,Berguvsvägen 8,Luleå,,S-958 22,Sweden,1996.0,8.0,14.0,1996-08-14,Raclette Courdavault,4.0,28.0,2,660.0
+10279,15,15.5,15,0.0,232.5,LEHMS,8,1996-08-15,1996-09-12,1996-08-20,2.0,25.83,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,1996.0,8.0,15.0,1996-08-15,Genen Shouyu,2.0,6.0,2,232.5
+10279,33,2.0,20,0.0,40.0,LEHMS,8,1996-08-15,1996-09-12,1996-08-20,2.0,25.83,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,1996.0,8.0,15.0,1996-08-15,Geitost,4.0,15.0,2,40.0
+10279,63,35.1,8,0.0,280.8,LEHMS,8,1996-08-15,1996-09-12,1996-08-20,2.0,25.83,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,1996.0,8.0,15.0,1996-08-15,Vegie-spread,2.0,7.0,2,280.8
+10280,10,24.8,10,0.0,248.0,ROMEY,4,1996-08-16,1996-09-13,1996-08-20,1.0,26.14,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,8.0,16.0,1996-08-16,Ikura,8.0,4.0,1,248.0
+10280,54,5.9,20,0.0,118.0,ROMEY,4,1996-08-16,1996-09-13,1996-08-20,1.0,26.14,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,8.0,16.0,1996-08-16,Tourtière,6.0,25.0,1,118.0
+10280,55,19.2,30,0.0,576.0,ROMEY,4,1996-08-16,1996-09-13,1996-08-20,1.0,26.14,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,8.0,16.0,1996-08-16,Pâté chinois,6.0,25.0,1,576.0
+10281,19,7.3,2,0.0,14.6,ROMEY,4,1996-08-19,1996-09-16,1996-08-28,1.0,12.69,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,8.0,19.0,1996-08-19,Teatime Chocolate Biscuits,3.0,8.0,1,14.6
+10281,24,3.6,3,0.0,10.8,ROMEY,4,1996-08-19,1996-09-16,1996-08-28,1.0,12.69,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,8.0,19.0,1996-08-19,Guaraná Fantástica,1.0,10.0,1,10.8
+10281,35,14.4,5,0.0,72.0,ROMEY,4,1996-08-19,1996-09-16,1996-08-28,1.0,12.69,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,8.0,19.0,1996-08-19,Steeleye Stout,1.0,16.0,1,72.0
+10282,30,20.7,10,0.0,207.0,LILAS,3,1996-08-20,1996-09-17,1996-08-22,1.0,0.02,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,8.0,20.0,1996-08-20,Nord-Ost Matjeshering,8.0,13.0,1,207.0
+10282,57,15.6,6,0.0,93.6,LILAS,3,1996-08-20,1996-09-17,1996-08-22,1.0,0.02,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,8.0,20.0,1996-08-20,Ravioli Angelo,5.0,26.0,1,93.6
+10282,62,39.4,30,0.0,1182.0,LILAS,3,1996-08-20,1996-09-17,1996-08-22,1.0,0.02,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,8.0,20.0,1996-08-20,Tarte au sucre,3.0,29.0,1,1182.0
+10283,42,9.8,6,0.0,58.800000000000004,LEHMS,4,1996-08-21,1996-09-18,1996-08-27,3.0,25.06,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,1996.0,8.0,21.0,1996-08-21,Singaporean Hokkien Fried Mee,5.0,20.0,3,58.800000000000004
+10283,72,34.8,3,0.0,104.39999999999999,LEHMS,4,1996-08-21,1996-09-18,1996-08-27,3.0,25.06,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,1996.0,8.0,21.0,1996-08-21,Mozzarella di Giovanni,4.0,14.0,3,104.39999999999999
+10284,14,18.6,10,0.0,186.0,BERGS,3,1996-08-22,1996-09-19,1996-08-27,1.0,168.64,Berglunds snabbköp,Berguvsvägen 8,Luleå,,S-958 22,Sweden,1996.0,8.0,22.0,1996-08-22,Tofu,7.0,6.0,1,186.0
+10284,41,7.7,20,0.0,154.0,BERGS,3,1996-08-22,1996-09-19,1996-08-27,1.0,168.64,Berglunds snabbköp,Berguvsvägen 8,Luleå,,S-958 22,Sweden,1996.0,8.0,22.0,1996-08-22,Jack's New England Clam Chowder,8.0,19.0,1,154.0
+10284,74,8.6,5,0.0,43.0,BERGS,3,1996-08-22,1996-09-19,1996-08-27,1.0,168.64,Berglunds snabbköp,Berguvsvägen 8,Luleå,,S-958 22,Sweden,1996.0,8.0,22.0,1996-08-22,Longlife Tofu,7.0,20.0,1,43.0
+10285,16,13.9,35,0.0,486.5,QUICK,1,1996-08-23,1996-09-20,1996-08-28,2.0,17.55,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,23.0,1996-08-23,Pavlova,3.0,7.0,2,486.5
+10285,18,50.0,20,0.0,1000.0,QUICK,1,1996-08-23,1996-09-20,1996-08-28,2.0,17.55,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,23.0,1996-08-23,Carnarvon Tigers,8.0,7.0,2,1000.0
+10285,21,8.0,40,0.0,320.0,QUICK,1,1996-08-23,1996-09-20,1996-08-28,2.0,17.55,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,23.0,1996-08-23,Sir Rodney's Scones,3.0,8.0,2,320.0
+10285,33,2.0,25,0.0,50.0,QUICK,1,1996-08-23,1996-09-20,1996-08-28,2.0,17.55,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,23.0,1996-08-23,Geitost,4.0,15.0,2,50.0
+10286,35,14.4,100,0.0,1440.0,QUICK,8,1996-08-26,1996-09-23,1996-08-28,3.0,7.8,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,26.0,1996-08-26,Steeleye Stout,1.0,16.0,3,1440.0
+10286,62,39.4,40,0.0,1576.0,QUICK,8,1996-08-26,1996-09-23,1996-08-28,3.0,7.8,QUICK Stop,Taucherstraße 10,Cunewalde,,01307,Germany,1996.0,8.0,26.0,1996-08-26,Tarte au sucre,3.0,29.0,3,1576.0
+10287,16,13.9,40,0.0,556.0,RICAR,8,1996-08-27,1996-09-24,1996-09-02,3.0,12.76,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02376-000,Brazil,1996.0,8.0,27.0,1996-08-27,Pavlova,3.0,7.0,3,556.0
+10287,34,11.2,20,0.0,224.0,RICAR,8,1996-08-27,1996-09-24,1996-09-02,3.0,12.76,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02376-000,Brazil,1996.0,8.0,27.0,1996-08-27,Sasquatch Ale,1.0,16.0,3,224.0
+10287,46,12.0,15,0.0,180.0,RICAR,8,1996-08-27,1996-09-24,1996-09-02,3.0,12.76,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02376-000,Brazil,1996.0,8.0,27.0,1996-08-27,Spegesild,8.0,21.0,3,180.0
+10288,22,16.8,20,0.0,336.0,REGGC,4,1996-08-28,1996-09-25,1996-09-02,3.0,7.45,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy,1996.0,8.0,28.0,1996-08-28,Gustaf's Knäckebröd,5.0,9.0,3,336.0
+10288,25,11.2,12,0.0,134.39999999999998,REGGC,4,1996-08-28,1996-09-25,1996-09-02,3.0,7.45,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy,1996.0,8.0,28.0,1996-08-28,NuNuCa Nuß-Nougat-Creme,3.0,11.0,3,134.39999999999998
+10288,50,13.0,40,0.0,520.0,REGGC,4,1996-08-28,1996-09-25,1996-09-02,3.0,7.45,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy,1996.0,8.0,28.0,1996-08-28,Valkoinen suklaa,3.0,23.0,3,520.0
+10289,10,24.8,16,0.050000000745058,376.959999704361,BSBEV,2,1996-08-29,1996-09-26,1996-09-03,2.0,22.77,B's Beverages,Fauntleroy Circus,London,,EC2 5NT,UK,1996.0,8.0,29.0,1996-08-29,Ikura,8.0,4.0,2,376.959999704361
+10289,47,7.6,15,0.050000000745058,108.2999999150634,BSBEV,2,1996-08-29,1996-09-26,1996-09-03,2.0,22.77,B's Beverages,Fauntleroy Circus,London,,EC2 5NT,UK,1996.0,8.0,29.0,1996-08-29,Zaanse koeken,3.0,22.0,2,108.2999999150634
+10289,49,16.0,20,0.050000000745058,303.9999997615815,BSBEV,2,1996-08-29,1996-09-26,1996-09-03,2.0,22.77,B's Beverages,Fauntleroy Circus,London,,EC2 5NT,UK,1996.0,8.0,29.0,1996-08-29,Maxilaku,3.0,23.0,2,303.9999997615815
+10290,13,4.6,20,0.0,92.0,COMMI,8,1996-09-02,1996-09-30,1996-09-11,1.0,79.7,Comércio Mineiro,"Av. dos Lusíadas, 23",São Paulo,SP,05432-043,Brazil,1996.0,9.0,2.0,1996-09-02,Konbu,8.0,6.0,1,92.0
+10290,24,3.6,10,0.0,36.0,COMMI,8,1996-09-02,1996-09-30,1996-09-11,1.0,79.7,Comércio Mineiro,"Av. dos Lusíadas, 23",São Paulo,SP,05432-043,Brazil,1996.0,9.0,2.0,1996-09-02,Guaraná Fantástica,1.0,10.0,1,36.0
+10290,64,26.6,6,0.0,159.60000000000002,COMMI,8,1996-09-02,1996-09-30,1996-09-11,1.0,79.7,Comércio Mineiro,"Av. dos Lusíadas, 23",São Paulo,SP,05432-043,Brazil,1996.0,9.0,2.0,1996-09-02,Wimmers gute Semmelknödel,5.0,12.0,1,159.60000000000002
+10291,17,31.2,30,0.0,936.0,ROMEY,8,1996-09-03,1996-10-01,1996-09-12,1.0,14.0,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,9.0,3.0,1996-09-03,Alice Mutton,6.0,7.0,1,936.0
+10291,46,12.0,2,0.0,24.0,ROMEY,8,1996-09-03,1996-10-01,1996-09-12,1.0,14.0,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,9.0,3.0,1996-09-03,Spegesild,8.0,21.0,1,24.0
+10291,63,35.1,20,0.0,702.0,ROMEY,8,1996-09-03,1996-10-01,1996-09-12,1.0,14.0,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain,1996.0,9.0,3.0,1996-09-03,Vegie-spread,2.0,7.0,1,702.0
+10292,42,9.8,20,0.0,196.0,ROTTN,1,1996-09-04,1996-10-02,1996-09-09,3.0,26.16,Rottmini Emporium,Granville Road 27,London,,NW1 5QT,UK,1996.0,9.0,4.0,1996-09-04,Singaporean Hokkien Fried Mee,5.0,20.0,3,196.0
+10292,69,28.8,18,0.0,518.4,ROTTN,1,1996-09-04,1996-10-02,1996-09-09,3.0,26.16,Rottmini Emporium,Granville Road 27,London,,NW1 5QT,UK,1996.0,9.0,4.0,1996-09-04,Gudbrandsdalsost,4.0,15.0,3,518.4
+10293,11,14.0,14,0.0,196.0,VINET,2,1996-09-05,1996-10-03,1996-09-12,3.0,15.67,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,9.0,5.0,1996-09-05,Queso Cabrales,4.0,5.0,3,196.0
+10293,57,15.6,12,0.0,187.2,VINET,2,1996-09-05,1996-10-03,1996-09-12,3.0,15.67,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,1996.0,9.0,5.0,1996-09-05,Ravioli Angelo,5.0,26.0,3,187.2
+10294,56,38.0,4,0.0,152.0,FOLKO,4,1996-09-06,1996-10-04,1996-09-11,2.0,3.52,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden,1996.0,9.0,6.0,1996-09-06,Gnocchi di nonna Alice,5.0,26.0,2,152.0
+10294,74,8.6,8,0.0,68.8,FOLKO,4,1996-09-06,1996-10-04,1996-09-11,2.0,3.52,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden,1996.0,9.0,6.0,1996-09-06,Longlife Tofu,7.0,20.0,2,68.8
+10295,14,18.6,10,0.0,186.0,WANDK,8,1996-09-09,1996-10-07,1996-09-13,2.0,1.15,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,9.0,9.0,1996-09-09,Tofu,7.0,6.0,2,186.0
+10295,19,7.3,20,0.0,146.0,WANDK,8,1996-09-09,1996-10-07,1996-09-13,2.0,1.15,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,9.0,9.0,1996-09-09,Teatime Chocolate Biscuits,3.0,8.0,2,146.0
+10295,24,3.6,15,0.0,54.0,WANDK,8,1996-09-09,1996-10-07,1996-09-13,2.0,1.15,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,9.0,9.0,1996-09-09,Guaraná Fantástica,1.0,10.0,2,54.0
+10296,16,13.9,30,0.1000000014901161,375.2999993786216,WANDK,2,1996-09-10,1996-10-08,1996-09-18,3.0,0.78,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,9.0,10.0,1996-09-10,Pavlova,3.0,7.0,3,375.2999993786216
+10296,32,25.6,20,0.1000000014901161,460.79999923706055,WANDK,2,1996-09-10,1996-10-08,1996-09-18,3.0,0.78,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,9.0,10.0,1996-09-10,Mascarpone Fabioli,4.0,14.0,3,460.79999923706055
+10296,57,15.6,15,0.1000000014901161,210.59999965131283,WANDK,2,1996-09-10,1996-10-08,1996-09-18,3.0,0.78,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,9.0,10.0,1996-09-10,Ravioli Angelo,5.0,26.0,3,210.59999965131283
+10297,29,99.0,6,0.0,594.0,ALFKI,3,1996-09-11,1996-10-09,1996-09-19,1.0,31.98,Alfreds Futterkiste,Obere Str. 57,Berlin,,12209,Germany,1996.0,9.0,11.0,1996-09-11,Thüringer Rostbratwurst,6.0,12.0,1,594.0
+10297,30,20.7,18,0.0,372.59999999999997,ALFKI,3,1996-09-11,1996-10-09,1996-09-19,1.0,31.98,Alfreds Futterkiste,Obere Str. 57,Berlin,,12209,Germany,1996.0,9.0,11.0,1996-09-11,Nord-Ost Matjeshering,8.0,13.0,1,372.59999999999997
+10298,13,4.6,12,0.0,55.199999999999996,ERNSH,4,1996-09-12,1996-10-10,1996-09-18,2.0,14.8,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,1996.0,9.0,12.0,1996-09-12,Konbu,8.0,6.0,2,55.199999999999996
+10298,39,14.4,30,0.0,432.0,ERNSH,4,1996-09-12,1996-10-10,1996-09-18,2.0,14.8,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,1996.0,9.0,12.0,1996-09-12,Chartreuse verte,1.0,18.0,2,432.0
+10299,10,24.8,3,0.0,74.4,OTTIK,3,1996-09-13,1996-10-11,1996-09-18,3.0,3.05,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany,1996.0,9.0,13.0,1996-09-13,Ikura,8.0,4.0,3,74.4
+10299,19,7.3,10,0.0,73.0,OTTIK,3,1996-09-13,1996-10-11,1996-09-18,3.0,3.05,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany,1996.0,9.0,13.0,1996-09-13,Teatime Chocolate Biscuits,3.0,8.0,3,73.0
+10300,24,3.6,12,0.0,43.2,LILAS,4,1996-09-16,1996-10-14,1996-09-23,2.0,5.0,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,9.0,16.0,1996-09-16,Guaraná Fantástica,1.0,10.0,2,43.2
+10300,63,35.1,15,0.0,526.5,LILAS,4,1996-09-16,1996-10-14,1996-09-23,2.0,5.0,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,9.0,16.0,1996-09-16,Vegie-spread,2.0,7.0,2,526.5
+10300,75,6.2,25,0.0,155.0,LILAS,4,1996-09-16,1996-10-14,1996-09-23,2.0,5.0,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98,Barquisimeto,Lara,3508,Venezuela,1996.0,9.0,16.0,1996-09-16,Rhönbräu Klosterbier,1.0,12.0,2,155.0
+10301,1,14.4,20,0.0,288.0,FURIB,2,1996-09-17,1996-10-15,1996-09-24,3.0,1.35,Furia Bacalhau e Frutos do Mar,Jardim das Flores 504,Lisboa,,1675,Portugal,1996.0,9.0,17.0,1996-09-17,Chai,1.0,1.0,3,288.0
+10301,21,8.0,10,0.0,80.0,FURIB,2,1996-09-17,1996-10-15,1996-09-24,3.0,1.35,Furia Bacalhau e Frutos do Mar,Jardim das Flores 504,Lisboa,,1675,Portugal,1996.0,9.0,17.0,1996-09-17,Sir Rodney's Scones,3.0,8.0,3,80.0
+10301,28,36.4,6,0.0,218.39999999999998,FURIB,2,1996-09-17,1996-10-15,1996-09-24,3.0,1.35,Furia Bacalhau e Frutos do Mar,Jardim das Flores 504,Lisboa,,1675,Portugal,1996.0,9.0,17.0,1996-09-17,Rössle Sauerkraut,7.0,12.0,3,218.39999999999998
+10302,8,32.0,10,0.0,320.0,HUNGO,6,1996-09-18,1996-10-16,1996-09-23,2.0,3.2,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,,2,Ireland,1996.0,9.0,18.0,1996-09-18,Northwoods Cranberry Sauce,2.0,3.0,2,320.0
+10302,24,3.6,9,0.0,32.4,HUNGO,6,1996-09-18,1996-10-16,1996-09-23,2.0,3.2,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,,2,Ireland,1996.0,9.0,18.0,1996-09-18,Guaraná Fantástica,1.0,10.0,2,32.4
+10302,30,20.7,14,0.0,289.8,HUNGO,6,1996-09-18,1996-10-16,1996-09-23,2.0,3.2,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,,2,Ireland,1996.0,9.0,18.0,1996-09-18,Nord-Ost Matjeshering,8.0,13.0,2,289.8
+10303,15,15.5,10,0.1000000014901161,139.499999769032,RICAR,7,1996-09-19,1996-10-17,1996-09-24,3.0,101.5,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02376-000,Brazil,1996.0,9.0,19.0,1996-09-19,Genen Shouyu,2.0,6.0,3,139.499999769032
+10303,73,12.0,20,0.1000000014901161,215.99999964237213,RICAR,7,1996-09-19,1996-10-17,1996-09-24,3.0,101.5,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02376-000,Brazil,1996.0,9.0,19.0,1996-09-19,Röd Kaviar,8.0,17.0,3,215.99999964237213
+10304,31,10.0,4,0.0,40.0,MAGAA,2,1996-09-20,1996-10-18,1996-09-27,3.0,51.29,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy,1996.0,9.0,20.0,1996-09-20,Gorgonzola Telino,4.0,14.0,3,40.0
+10304,63,35.1,30,0.0,1053.0,MAGAA,2,1996-09-20,1996-10-18,1996-09-27,3.0,51.29,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy,1996.0,9.0,20.0,1996-09-20,Vegie-spread,2.0,7.0,3,1053.0
+10304,68,10.0,15,0.0,150.0,MAGAA,2,1996-09-20,1996-10-18,1996-09-27,3.0,51.29,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy,1996.0,9.0,20.0,1996-09-20,Scottish Longbreads,3.0,8.0,3,150.0
+10305,8,32.0,2,0.0,64.0,MORGK,6,1996-09-23,1996-10-21,1996-09-30,1.0,10.22,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,04179,Germany,1996.0,9.0,23.0,1996-09-23,Northwoods Cranberry Sauce,2.0,3.0,1,64.0
+10305,29,99.0,14,0.0,1386.0,MORGK,6,1996-09-23,1996-10-21,1996-09-30,1.0,10.22,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,04179,Germany,1996.0,9.0,23.0,1996-09-23,Thüringer Rostbratwurst,6.0,12.0,1,1386.0
+10305,38,210.8,10,0.0,2108.0,MORGK,6,1996-09-23,1996-10-21,1996-09-30,1.0,10.22,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,04179,Germany,1996.0,9.0,23.0,1996-09-23,Côte de Blaye,1.0,18.0,1,2108.0
+10306,13,4.6,10,0.0,46.0,TORTU,8,1996-09-24,1996-10-22,1996-09-30,1.0,17.52,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico,1996.0,9.0,24.0,1996-09-24,Konbu,8.0,6.0,1,46.0
+10306,17,31.2,20,0.0,624.0,TORTU,8,1996-09-24,1996-10-22,1996-09-30,1.0,17.52,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico,1996.0,9.0,24.0,1996-09-24,Alice Mutton,6.0,7.0,1,624.0
+10306,60,27.2,12,0.0,326.4,TORTU,8,1996-09-24,1996-10-22,1996-09-30,1.0,17.52,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,05033,Mexico,1996.0,9.0,24.0,1996-09-24,Camembert Pierrot,4.0,28.0,1,326.4
+10307,15,15.5,12,0.0,186.0,GODOS,4,1996-09-25,1996-10-23,1996-10-03,2.0,19.92,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41001,Spain,1996.0,9.0,25.0,1996-09-25,Genen Shouyu,2.0,6.0,2,186.0
+10307,69,28.8,15,0.0,432.0,GODOS,4,1996-09-25,1996-10-23,1996-10-03,2.0,19.92,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41001,Spain,1996.0,9.0,25.0,1996-09-25,Gudbrandsdalsost,4.0,15.0,2,432.0
+10308,75,6.2,10,0.0,62.0,OLDWO,2,1996-09-26,1996-10-24,1996-10-01,3.0,4.01,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA,1996.0,9.0,26.0,1996-09-26,Rhönbräu Klosterbier,1.0,12.0,3,62.0
+10309,7,24.0,5,0.0,120.0,LAMAI,1,1996-09-27,1996-10-25,1996-10-03,1.0,10.64,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France,1996.0,9.0,27.0,1996-09-27,Uncle Bob's Organic Dried Pears,7.0,3.0,1,120.0
+10309,51,42.4,25,0.0,1060.0,LAMAI,1,1996-09-27,1996-10-25,1996-10-03,1.0,10.64,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France,1996.0,9.0,27.0,1996-09-27,Manjimup Dried Apples,7.0,24.0,1,1060.0
+10309,54,5.9,12,0.0,70.80000000000001,LAMAI,1,1996-09-27,1996-10-25,1996-10-03,1.0,10.64,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France,1996.0,9.0,27.0,1996-09-27,Tourtière,6.0,25.0,1,70.80000000000001
+10310,7,24.0,16,0.0,384.0,HILAA,8,1996-09-30,1996-10-28,1996-10-03,2.0,7.99,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,9.0,30.0,1996-09-30,Uncle Bob's Organic Dried Pears,7.0,3.0,2,384.0
+10310,56,38.0,50,0.0,1900.0,HILAA,8,1996-09-30,1996-10-28,1996-10-03,2.0,7.99,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,9.0,30.0,1996-09-30,Gnocchi di nonna Alice,5.0,26.0,2,1900.0
+10310,64,26.6,8,0.0,212.8,HILAA,8,1996-09-30,1996-10-28,1996-10-03,2.0,7.99,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,9.0,30.0,1996-09-30,Wimmers gute Semmelknödel,5.0,12.0,2,212.8
+10311,14,18.6,12,0.0,223.20000000000002,BONAP,3,1996-10-01,1996-10-29,1996-10-07,1.0,350.64,Bon app',12 rue des Bouchers,Marseille,,13008,France,1996.0,10.0,1.0,1996-10-01,Tofu,7.0,6.0,1,223.20000000000002
+10311,42,9.8,20,0.0,196.0,BONAP,3,1996-10-01,1996-10-29,1996-10-07,1.0,350.64,Bon app',12 rue des Bouchers,Marseille,,13008,France,1996.0,10.0,1.0,1996-10-01,Singaporean Hokkien Fried Mee,5.0,20.0,1,196.0
+10311,60,27.2,10,0.0,272.0,BONAP,3,1996-10-01,1996-10-29,1996-10-07,1.0,350.64,Bon app',12 rue des Bouchers,Marseille,,13008,France,1996.0,10.0,1.0,1996-10-01,Camembert Pierrot,4.0,28.0,1,272.0
+10312,31,10.0,4,0.0,40.0,FAMIA,1,1996-10-02,1996-10-30,1996-10-08,3.0,10.83,Familia Arquibaldo,"Rua Orós, 92",São Paulo,SP,05442030,Brazil,1996.0,10.0,2.0,1996-10-02,Gorgonzola Telino,4.0,14.0,3,40.0
+10312,72,34.8,15,0.0,522.0,FAMIA,1,1996-10-02,1996-10-30,1996-10-08,3.0,10.83,Familia Arquibaldo,"Rua Orós, 92",São Paulo,SP,05442030,Brazil,1996.0,10.0,2.0,1996-10-02,Mozzarella di Giovanni,4.0,14.0,3,522.0
+10312,75,6.2,25,0.0,155.0,FAMIA,1,1996-10-02,1996-10-30,1996-10-08,3.0,10.83,Familia Arquibaldo,"Rua Orós, 92",São Paulo,SP,05442030,Brazil,1996.0,10.0,2.0,1996-10-02,Rhönbräu Klosterbier,1.0,12.0,3,155.0
+10313,1,14.4,12,0.0,172.8,WANDK,2,1996-10-03,1996-10-31,1996-10-07,1.0,65.02,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,10.0,3.0,1996-10-03,Chai,1.0,1.0,1,172.8
+10313,23,7.2,18,0.0,129.6,WANDK,2,1996-10-03,1996-10-31,1996-10-07,1.0,65.02,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,10.0,3.0,1996-10-03,Tunnbröd,5.0,9.0,1,129.6
+10313,46,12.0,6,0.0,72.0,WANDK,2,1996-10-03,1996-10-31,1996-10-07,1.0,65.02,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,10.0,3.0,1996-10-03,Spegesild,8.0,21.0,1,72.0
+10314,4,17.6,12,0.0,211.20000000000002,VICTE,3,1996-10-04,1996-11-01,1996-10-10,3.0,3.09,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,1996.0,10.0,4.0,1996-10-04,Chef Anton's Cajun Seasoning,2.0,2.0,3,211.20000000000002
+10314,58,10.6,20,0.0,212.0,VICTE,3,1996-10-04,1996-11-01,1996-10-10,3.0,3.09,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,1996.0,10.0,4.0,1996-10-04,Escargots de Bourgogne,8.0,27.0,3,212.0
+10315,11,14.0,10,0.0,140.0,SAVEA,2,1996-10-07,1996-11-04,1996-10-14,1.0,14.62,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA,1996.0,10.0,7.0,1996-10-07,Queso Cabrales,4.0,5.0,1,140.0
+10315,42,9.8,6,0.0,58.800000000000004,SAVEA,2,1996-10-07,1996-11-04,1996-10-14,1.0,14.62,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA,1996.0,10.0,7.0,1996-10-07,Singaporean Hokkien Fried Mee,5.0,20.0,1,58.800000000000004
+10316,23,7.2,40,0.0,288.0,GREAL,4,1996-10-08,1996-11-05,1996-10-14,2.0,13.4,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA,1996.0,10.0,8.0,1996-10-08,Tunnbröd,5.0,9.0,2,288.0
+10316,63,35.1,20,0.0,702.0,GREAL,4,1996-10-08,1996-11-05,1996-10-14,2.0,13.4,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA,1996.0,10.0,8.0,1996-10-08,Vegie-spread,2.0,7.0,2,702.0
+10316,72,34.8,15,0.0,522.0,GREAL,4,1996-10-08,1996-11-05,1996-10-14,2.0,13.4,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA,1996.0,10.0,8.0,1996-10-08,Mozzarella di Giovanni,4.0,14.0,2,522.0
+10317,31,10.0,10,0.0,100.0,MEREP,5,1996-10-09,1996-11-06,1996-10-14,3.0,144.38,Mère Paillard,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada,1996.0,10.0,9.0,1996-10-09,Gorgonzola Telino,4.0,14.0,3,100.0
+10317,57,15.6,20,0.0,312.0,MEREP,5,1996-10-09,1996-11-06,1996-10-14,3.0,144.38,Mère Paillard,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada,1996.0,10.0,9.0,1996-10-09,Ravioli Angelo,5.0,26.0,3,312.0
+10317,59,44.0,8,0.0,352.0,MEREP,5,1996-10-09,1996-11-06,1996-10-14,3.0,144.38,Mère Paillard,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada,1996.0,10.0,9.0,1996-10-09,Raclette Courdavault,4.0,28.0,3,352.0
+10318,36,15.2,6,0.0,91.19999999999999,HUNGO,6,1996-10-10,1996-11-07,1996-10-16,2.0,11.99,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,,2,Ireland,1996.0,10.0,10.0,1996-10-10,Inlagd Sill,8.0,17.0,2,91.19999999999999
+10318,52,5.6,40,0.0,224.0,HUNGO,6,1996-10-10,1996-11-07,1996-10-16,2.0,11.99,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,,2,Ireland,1996.0,10.0,10.0,1996-10-10,Filo Mix,5.0,24.0,2,224.0
+10318,61,22.8,30,0.0,684.0,HUNGO,6,1996-10-10,1996-11-07,1996-10-16,2.0,11.99,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,,2,Ireland,1996.0,10.0,10.0,1996-10-10,Sirop d'érable,2.0,29.0,2,684.0
+10319,16,13.9,30,0.0,417.0,AROUT,8,1996-10-11,1996-11-08,1996-10-16,3.0,8.29,Around the Horn,Brook Farm Stratford St. Mary,Colchester,,CO7 6JX,UK,1996.0,10.0,11.0,1996-10-11,Pavlova,3.0,7.0,3,417.0
+10319,25,11.2,10,0.0,112.0,AROUT,8,1996-10-11,1996-11-08,1996-10-16,3.0,8.29,Around the Horn,Brook Farm Stratford St. Mary,Colchester,,CO7 6JX,UK,1996.0,10.0,11.0,1996-10-11,NuNuCa Nuß-Nougat-Creme,3.0,11.0,3,112.0
+10319,40,14.7,20,0.0,294.0,AROUT,8,1996-10-11,1996-11-08,1996-10-16,3.0,8.29,Around the Horn,Brook Farm Stratford St. Mary,Colchester,,CO7 6JX,UK,1996.0,10.0,11.0,1996-10-11,Boston Crab Meat,8.0,19.0,3,294.0
+10320,18,50.0,20,0.0,1000.0,ISLAT,2,1996-10-14,1996-11-11,1996-10-17,2.0,0.0,Island Trading,Garden House Crowther Way,Cowes,,PO31 7PJ,UK,1996.0,10.0,14.0,1996-10-14,Carnarvon Tigers,8.0,7.0,2,1000.0
+10320,43,36.8,24,0.0,883.1999999999999,ISLAT,2,1996-10-14,1996-11-11,1996-10-17,2.0,0.0,Island Trading,Garden House Crowther Way,Cowes,,PO31 7PJ,UK,1996.0,10.0,14.0,1996-10-14,Ipoh Coffee,1.0,20.0,2,883.1999999999999
+10320,46,12.0,15,0.0,180.0,ISLAT,2,1996-10-14,1996-11-11,1996-10-17,2.0,0.0,Island Trading,Garden House Crowther Way,Cowes,,PO31 7PJ,UK,1996.0,10.0,14.0,1996-10-14,Spegesild,8.0,21.0,2,180.0
+10321,35,14.4,10,0.0,144.0,RICAR,3,1996-10-15,1996-11-12,1996-10-18,3.0,35.01,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02376000,Brazil,1996.0,10.0,15.0,1996-10-15,Steeleye Stout,1.0,16.0,3,144.0
+10321,41,7.7,20,0.0,154.0,RICAR,3,1996-10-15,1996-11-12,1996-10-18,3.0,35.01,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02376000,Brazil,1996.0,10.0,15.0,1996-10-15,Jack's New England Clam Chowder,8.0,19.0,3,154.0
+10321,68,10.0,8,0.0,80.0,RICAR,3,1996-10-15,1996-11-12,1996-10-18,3.0,35.01,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02376000,Brazil,1996.0,10.0,15.0,1996-10-15,Scottish Longbreads,3.0,8.0,3,80.0
+10322,52,5.6,12,0.0,67.19999999999999,FRANS,4,1996-10-16,1996-11-13,1996-10-21,1.0,3.1,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy,1996.0,10.0,16.0,1996-10-16,Filo Mix,5.0,24.0,1,67.19999999999999
+10322,64,26.6,18,0.0,478.8,FRANS,4,1996-10-16,1996-11-13,1996-10-21,1.0,3.1,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy,1996.0,10.0,16.0,1996-10-16,Wimmers gute Semmelknödel,5.0,12.0,1,478.8
+10323,21,8.0,40,0.0,320.0,ISLAT,3,1996-10-17,1996-11-14,1996-10-23,2.0,97.3,Island Trading,Garden House Crowther Way,Cowes,,PO31 7PJ,UK,1996.0,10.0,17.0,1996-10-17,Sir Rodney's Scones,3.0,8.0,2,320.0
+10323,29,99.0,20,0.0,1980.0,ISLAT,3,1996-10-17,1996-11-14,1996-10-23,2.0,97.3,Island Trading,Garden House Crowther Way,Cowes,,PO31 7PJ,UK,1996.0,10.0,17.0,1996-10-17,Thüringer Rostbratwurst,6.0,12.0,2,1980.0
+10323,51,42.4,30,0.0,1272.0,ISLAT,3,1996-10-17,1996-11-14,1996-10-23,2.0,97.3,Island Trading,Garden House Crowther Way,Cowes,,PO31 7PJ,UK,1996.0,10.0,17.0,1996-10-17,Manjimup Dried Apples,7.0,24.0,2,1272.0
+10324,19,7.3,30,0.0,219.0,FURIB,7,1996-10-18,1996-11-15,1996-10-24,3.0,11.28,Furia Bacalhau e Frutos do Mar,Jardim das Flores 504,Lisboa,,1675,Portugal,1996.0,10.0,18.0,1996-10-18,Teatime Chocolate Biscuits,3.0,8.0,3,219.0
+10324,35,14.4,20,0.0,288.0,FURIB,7,1996-10-18,1996-11-15,1996-10-24,3.0,11.28,Furia Bacalhau e Frutos do Mar,Jardim das Flores 504,Lisboa,,1675,Portugal,1996.0,10.0,18.0,1996-10-18,Steeleye Stout,1.0,16.0,3,288.0
+10324,55,19.2,15,0.0,288.0,FURIB,7,1996-10-18,1996-11-15,1996-10-24,3.0,11.28,Furia Bacalhau e Frutos do Mar,Jardim das Flores 504,Lisboa,,1675,Portugal,1996.0,10.0,18.0,1996-10-18,Pâté chinois,6.0,25.0,3,288.0
+10325,6,20.0,6,0.0,120.0,BLONP,4,1996-10-21,1996-11-18,1996-10-24,1.0,11.01,Blondesddsl père et fils,24 place Kléber,Strasbourg,,67000,France,1996.0,10.0,21.0,1996-10-21,Grandma's Boysenberry Spread,2.0,3.0,1,120.0
+10325,13,4.6,12,0.0,55.199999999999996,BLONP,4,1996-10-21,1996-11-18,1996-10-24,1.0,11.01,Blondesddsl père et fils,24 place Kléber,Strasbourg,,67000,France,1996.0,10.0,21.0,1996-10-21,Konbu,8.0,6.0,1,55.199999999999996
+10325,14,18.6,9,0.0,167.4,BLONP,4,1996-10-21,1996-11-18,1996-10-24,1.0,11.01,Blondesddsl père et fils,24 place Kléber,Strasbourg,,67000,France,1996.0,10.0,21.0,1996-10-21,Tofu,7.0,6.0,1,167.4
+10325,31,10.0,4,0.0,40.0,BLONP,4,1996-10-21,1996-11-18,1996-10-24,1.0,11.01,Blondesddsl père et fils,24 place Kléber,Strasbourg,,67000,France,1996.0,10.0,21.0,1996-10-21,Gorgonzola Telino,4.0,14.0,1,40.0
+10326,4,17.6,12,0.0,211.20000000000002,WARTH,3,1996-10-22,1996-11-19,1996-10-27,3.0,0.0,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland,1996.0,10.0,22.0,1996-10-22,Chef Anton's Cajun Seasoning,2.0,2.0,3,211.20000000000002
+10326,18,50.0,15,0.0,750.0,WARTH,3,1996-10-22,1996-11-19,1996-10-27,3.0,0.0,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland,1996.0,10.0,22.0,1996-10-22,Carnarvon Tigers,8.0,7.0,3,750.0
+10326,50,13.0,6,0.0,78.0,WARTH,3,1996-10-22,1996-11-19,1996-10-27,3.0,0.0,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland,1996.0,10.0,22.0,1996-10-22,Valkoinen suklaa,3.0,23.0,3,78.0
+10327,1,14.4,40,0.0,576.0,WANDK,4,1996-10-23,1996-11-20,1996-10-29,2.0,6.16,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,10.0,23.0,1996-10-23,Chai,1.0,1.0,2,576.0
+10327,35,14.4,20,0.0,288.0,WANDK,4,1996-10-23,1996-11-20,1996-10-29,2.0,6.16,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany,1996.0,10.0,23.0,1996-10-23,Steeleye Stout,1.0,16.0,2,288.0
+10328,26,24.9,6,0.0,149.39999999999998,AROUT,4,1996-10-24,1996-11-21,1996-10-30,2.0,4.1,Around the Horn,Brook Farm Stratford St. Mary,Colchester,,CO7 6JX,UK,1996.0,10.0,24.0,1996-10-24,Gumbär Gummibärchen,3.0,11.0,2,149.39999999999998
+10328,52,5.6,10,0.0,56.0,AROUT,4,1996-10-24,1996-11-21,1996-10-30,2.0,4.1,Around the Horn,Brook Farm Stratford St. Mary,Colchester,,CO7 6JX,UK,1996.0,10.0,24.0,1996-10-24,Filo Mix,5.0,24.0,2,56.0
+10329,11,14.0,12,0.1000000014901161,151.1999997496605,LINOD,8,1996-10-25,1996-11-22,1996-10-31,2.0,12.55,LINO-Delicateses,Ave. Simon Bolivar 331,Buenos Aires,,1702,Argentina,1996.0,10.0,25.0,1996-10-25,Queso Cabrales,4.0,5.0,2,151.1999997496605
+10329,28,36.4,6,0.1000000014901161,196.5599996745586,LINOD,8,1996-10-25,1996-11-22,1996-10-31,2.0,12.55,LINO-Delicateses,Ave. Simon Bolivar 331,Buenos Aires,,1702,Argentina,1996.0,10.0,25.0,1996-10-25,Rössle Sauerkraut,7.0,12.0,2,196.5599996745586
+10329,56,38.0,4,0.1000000014901161,136.79999977350235,LINOD,8,1996-10-25,1996-11-22,1996-10-31,2.0,12.55,LINO-Delicateses,Ave. Simon Bolivar 331,Buenos Aires,,1702,Argentina,1996.0,10.0,25.0,1996-10-25,Gnocchi di nonna Alice,5.0,26.0,2,136.79999977350235
+10330,35,14.4,10,0.0,144.0,HILAA,5,1996-10-28,1996-11-25,1996-10-31,2.0,184.41,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,10.0,28.0,1996-10-28,Steeleye Stout,1.0,16.0,2,144.0
+10330,40,14.7,12,0.0,176.39999999999998,HILAA,5,1996-10-28,1996-11-25,1996-10-31,2.0,184.41,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,10.0,28.0,1996-10-28,Boston Crab Meat,8.0,19.0,2,176.39999999999998
+10330,56,38.0,5,0.0,190.0,HILAA,5,1996-10-28,1996-11-25,1996-10-31,2.0,184.41,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,1996.0,10.0,28.0,1996-10-28,Gnocchi di nonna Alice,5.0,26.0,2,190.0
+10331,1,14.4,24,0.0,345.6,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,345.6
+10331,18,50.0,10,0.0,500.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,500.0
+10331,46,12.0,15,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,180.0
+10332,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10332,56,38.0,12,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,456.0
+10333,2,15.2,25,0.0,380.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,380.0
+10333,36,15.2,20,0.0,304.0,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,304.0
+10333,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10334,7,24.0,20,0.1000000014901161,431.99999928474426,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,431.99999928474426
+10334,22,16.8,30,0.1000000014901161,453.5999992489815,nan,0,,,,,,,,,,,,,,,,Gustaf's Knäckebröd,5.0,9.0,0,453.5999992489815
+10334,46,12.0,30,0.1000000014901161,323.9999994635582,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,323.9999994635582
+10334,55,19.2,60,0.1000000014901161,1036.7999982833862,nan,0,,,,,,,,,,,,,,,,Pâté chinois,6.0,25.0,0,1036.7999982833862
+10335,16,13.9,20,0.0,278.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,278.0
+10335,36,15.2,35,0.0,532.0,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,532.0
+10335,52,5.6,24,0.0,134.39999999999998,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,134.39999999999998
+10336,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10336,65,16.8,20,0.0,336.0,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,336.0
+10337,18,50.0,50,0.0,2500.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,2500.0
+10337,36,15.2,25,0.0,380.0,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,380.0
+10337,63,35.1,30,0.0,1053.0,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,1053.0
+10338,13,4.6,6,0.0,27.599999999999998,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,27.599999999999998
+10338,23,7.2,24,0.0,172.8,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,172.8
+10338,35,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,432.0
+10338,42,9.8,8,0.0,78.4,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,78.4
+10339,38,210.8,8,0.0,1686.4,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,1686.4
+10339,66,13.6,20,0.0,272.0,nan,0,,,,,,,,,,,,,,,,Louisiana Hot Spiced Okra,2.0,2.0,0,272.0
+10340,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10340,43,36.8,20,0.0,736.0,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,736.0
+10340,46,12.0,10,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,120.0
+10341,33,2.0,24,0.0,48.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,48.0
+10341,71,17.2,15,0.0,258.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,258.0
+10342,23,7.2,30,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,216.0
+10342,35,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,432.0
+10342,38,210.8,10,0.0,2108.0,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,2108.0
+10342,41,7.7,6,0.0,46.2,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,46.2
+10343,18,50.0,6,0.0,300.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,300.0
+10343,36,15.2,28,0.0,425.59999999999997,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,425.59999999999997
+10343,69,28.8,24,0.0,691.2,nan,0,,,,,,,,,,,,,,,,Gudbrandsdalsost,4.0,15.0,0,691.2
+10344,4,17.6,35,0.0,616.0,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,616.0
+10344,39,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,288.0
+10344,54,5.9,10,0.0,59.0,nan,0,,,,,,,,,,,,,,,,Tourtière,6.0,25.0,0,59.0
+10345,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10345,42,9.8,15,0.0,147.0,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,147.0
+10345,45,7.6,21,0.0,159.6,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,159.6
+10346,13,4.6,6,0.0,27.599999999999998,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,27.599999999999998
+10346,24,3.6,28,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,100.8
+10346,46,12.0,30,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,360.0
+10347,31,10.0,15,0.2000000029802322,119.99999955296516,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,119.99999955296516
+10347,41,7.7,12,0.2000000029802322,73.91999972462655,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,73.91999972462655
+10347,56,38.0,12,0.2000000029802322,364.7999986410141,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,364.7999986410141
+10348,1,14.4,15,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,216.0
+10348,23,7.2,21,0.0,151.20000000000002,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,151.20000000000002
+10348,40,14.7,20,0.0,294.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,294.0
+10348,56,38.0,12,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,456.0
+10349,24,3.6,15,0.0,54.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,54.0
+10349,54,5.9,21,0.0,123.9,nan,0,,,,,,,,,,,,,,,,Tourtière,6.0,25.0,0,123.9
+10349,64,26.6,20,0.0,532.0,nan,0,,,,,,,,,,,,,,,,Wimmers gute Semmelknödel,5.0,12.0,0,532.0
+10350,50,13.0,15,0.050000000745058,185.2499998547137,nan,0,,,,,,,,,,,,,,,,Valkoinen suklaa,3.0,23.0,0,185.2499998547137
+10350,69,28.8,18,0.050000000745058,492.47999961376195,nan,0,,,,,,,,,,,,,,,,Gudbrandsdalsost,4.0,15.0,0,492.47999961376195
+10350,71,17.2,30,0.050000000745058,490.1999996155501,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,490.1999996155501
+10351,38,210.8,20,0.0,4216.0,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,4216.0
+10351,41,7.7,13,0.0,100.10000000000001,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,100.10000000000001
+10352,11,14.0,6,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,84.0
+10352,22,16.8,15,0.0,252.0,nan,0,,,,,,,,,,,,,,,,Gustaf's Knäckebröd,5.0,9.0,0,252.0
+10352,45,7.6,20,0.0,152.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,152.0
+10352,49,16.0,15,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Maxilaku,3.0,23.0,0,240.0
+10353,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10353,30,20.7,18,0.0,372.59999999999997,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,372.59999999999997
+10353,49,16.0,12,0.0,192.0,nan,0,,,,,,,,,,,,,,,,Maxilaku,3.0,23.0,0,192.0
+10353,54,5.9,36,0.0,212.4,nan,0,,,,,,,,,,,,,,,,Tourtière,6.0,25.0,0,212.4
+10354,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10354,32,25.6,15,0.0,384.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,384.0
+10354,57,15.6,20,0.0,312.0,nan,0,,,,,,,,,,,,,,,,Ravioli Angelo,5.0,26.0,0,312.0
+10354,60,27.2,30,0.0,816.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,816.0
+10355,39,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,288.0
+10355,52,5.6,14,0.0,78.39999999999999,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,78.39999999999999
+10356,14,18.6,12,0.0,223.20000000000002,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,223.20000000000002
+10356,44,15.5,9,0.0,139.5,nan,0,,,,,,,,,,,,,,,,Gula Malacca,2.0,20.0,0,139.5
+10356,47,7.6,40,0.0,304.0,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,304.0
+10357,41,7.7,50,0.0,385.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,385.0
+10357,69,28.8,30,0.0,864.0,nan,0,,,,,,,,,,,,,,,,Gudbrandsdalsost,4.0,15.0,0,864.0
+10357,72,34.8,20,0.0,696.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,696.0
+10358,21,8.0,60,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,480.0
+10358,40,14.7,40,0.0,588.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,588.0
+10358,60,27.2,30,0.0,816.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,816.0
+10359,4,17.6,20,0.0,352.0,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,352.0
+10359,6,20.0,30,0.0,600.0,nan,0,,,,,,,,,,,,,,,,Grandma's Boysenberry Spread,2.0,3.0,0,600.0
+10359,42,9.8,40,0.0,392.0,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,392.0
+10360,16,13.9,15,0.0,208.5,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,208.5
+10360,31,10.0,24,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,240.0
+10360,65,16.8,8,0.0,134.4,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,134.4
+10361,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10361,39,14.4,120,0.0,1728.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,1728.0
+10361,46,12.0,21,0.0,252.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,252.0
+10362,14,18.6,50,0.1000000014901161,836.9999986141921,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,836.9999986141921
+10362,21,8.0,90,0.1000000014901161,647.9999989271164,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,647.9999989271164
+10362,71,17.2,30,0.1000000014901161,464.3999992311001,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,464.3999992311001
+10362,72,34.8,30,0.1000000014901161,939.5999984443188,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,939.5999984443188
+10363,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10363,16,13.9,14,0.0,194.6,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,194.6
+10363,22,16.8,24,0.0,403.20000000000005,nan,0,,,,,,,,,,,,,,,,Gustaf's Knäckebröd,5.0,9.0,0,403.20000000000005
+10363,47,7.6,30,0.0,228.0,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,228.0
+10364,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10364,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10364,71,17.2,30,0.0,516.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,516.0
+10365,52,5.6,16,0.0,89.6,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,89.6
+10365,59,44.0,50,0.0,2200.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,2200.0
+10366,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10366,18,50.0,40,0.0,2000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,2000.0
+10366,56,38.0,20,0.0,760.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,760.0
+10367,25,11.2,6,0.0,67.19999999999999,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,67.19999999999999
+10367,39,14.4,10,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,144.0
+10367,40,14.7,6,0.0,88.19999999999999,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,88.19999999999999
+10368,36,15.2,6,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,91.19999999999999
+10368,52,5.6,40,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,224.0
+10368,61,22.8,30,0.0,684.0,nan,0,,,,,,,,,,,,,,,,Sirop d'érable,2.0,29.0,0,684.0
+10369,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10369,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10369,76,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,432.0
+10370,29,99.0,10,0.0,990.0,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,990.0
+10370,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10370,71,17.2,12,0.0,206.39999999999998,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,206.39999999999998
+10371,26,24.9,6,0.0,149.39999999999998,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,149.39999999999998
+10371,30,20.7,25,0.0,517.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,517.5
+10371,74,8.6,20,0.0,172.0,nan,0,,,,,,,,,,,,,,,,Longlife Tofu,7.0,20.0,0,172.0
+10372,6,20.0,20,0.0,400.0,nan,0,,,,,,,,,,,,,,,,Grandma's Boysenberry Spread,2.0,3.0,0,400.0
+10372,14,18.6,10,0.0,186.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,186.0
+10372,19,7.3,15,0.0,109.5,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,109.5
+10372,45,7.6,21,0.0,159.6,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,159.6
+10373,17,31.2,10,0.0,312.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,312.0
+10373,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10373,75,6.2,12,0.0,74.4,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,74.4
+10373,76,14.4,15,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,216.0
+10374,2,15.2,10,0.0,152.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,152.0
+10374,63,35.1,20,0.0,702.0,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,702.0
+10374,71,17.2,10,0.0,172.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,172.0
+10375,24,3.6,12,0.0,43.2,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,43.2
+10375,64,26.6,30,0.0,798.0,nan,0,,,,,,,,,,,,,,,,Wimmers gute Semmelknödel,5.0,12.0,0,798.0
+10376,27,35.1,15,0.0,526.5,nan,0,,,,,,,,,,,,,,,,Schoggi Schokolade,3.0,11.0,0,526.5
+10376,63,35.1,30,0.0,1053.0,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,1053.0
+10376,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10377,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10377,19,7.3,15,0.0,109.5,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,109.5
+10377,60,27.2,8,0.0,217.6,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,217.6
+10378,7,24.0,10,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,240.0
+10378,43,36.8,12,0.0,441.59999999999997,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,441.59999999999997
+10378,72,34.8,10,0.0,348.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,348.0
+10379,11,14.0,40,0.0,560.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,560.0
+10379,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10379,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10380,30,20.7,18,0.0,372.59999999999997,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,372.59999999999997
+10380,46,12.0,30,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,360.0
+10380,74,8.6,18,0.0,154.79999999999998,nan,0,,,,,,,,,,,,,,,,Longlife Tofu,7.0,20.0,0,154.79999999999998
+10381,16,13.9,30,0.0,417.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,417.0
+10381,19,7.3,12,0.0,87.6,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,87.6
+10381,21,8.0,15,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,120.0
+10382,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10382,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10382,70,12.0,8,0.0,96.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,96.0
+10383,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10383,46,12.0,8,0.0,96.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,96.0
+10383,72,34.8,4,0.0,139.2,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,139.2
+10384,26,24.9,20,0.0,498.0,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,498.0
+10384,40,14.7,10,0.0,147.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,147.0
+10384,60,27.2,15,0.0,408.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,408.0
+10385,16,13.9,35,0.0,486.5,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,486.5
+10385,35,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,288.0
+10385,47,7.6,25,0.0,190.0,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,190.0
+10386,24,3.6,15,0.0,54.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,54.0
+10386,35,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,288.0
+10386,46,12.0,30,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,360.0
+10387,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10387,21,8.0,15,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,120.0
+10387,71,17.2,18,0.0,309.59999999999997,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,309.59999999999997
+10388,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10388,31,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,100.0
+10388,65,16.8,12,0.0,201.60000000000002,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,201.60000000000002
+10389,29,99.0,6,0.1000000014901161,534.599999114871,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,534.599999114871
+10389,38,210.8,8,0.1000000014901161,1517.7599974870682,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,1517.7599974870682
+10389,72,34.8,3,0.1000000014901161,93.95999984443186,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,93.95999984443186
+10390,8,32.0,20,0.2000000029802322,511.99999809265137,nan,0,,,,,,,,,,,,,,,,Northwoods Cranberry Sauce,2.0,3.0,0,511.99999809265137
+10390,16,13.9,15,0.2000000029802322,166.79999937862158,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,166.79999937862158
+10390,29,99.0,8,0.2000000029802322,633.5999976396561,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,633.5999976396561
+10391,44,15.5,12,0.0,186.0,nan,0,,,,,,,,,,,,,,,,Gula Malacca,2.0,20.0,0,186.0
+10391,51,42.4,12,0.0,508.79999999999995,nan,0,,,,,,,,,,,,,,,,Manjimup Dried Apples,7.0,24.0,0,508.79999999999995
+10391,77,10.4,15,0.0,156.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,156.0
+10392,31,10.0,16,0.0,160.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,160.0
+10392,63,35.1,20,0.0,702.0,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,702.0
+10392,72,34.8,10,0.0,348.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,348.0
+10393,18,50.0,30,0.050000000745058,1424.9999988824131,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1424.9999988824131
+10393,42,9.8,40,0.050000000745058,372.3999997079373,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,372.3999997079373
+10393,47,7.6,25,0.050000000745058,180.499999858439,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,180.499999858439
+10394,6,20.0,18,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Grandma's Boysenberry Spread,2.0,3.0,0,360.0
+10394,28,36.4,12,0.0,436.79999999999995,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,436.79999999999995
+10394,55,19.2,30,0.0,576.0,nan,0,,,,,,,,,,,,,,,,Pâté chinois,6.0,25.0,0,576.0
+10395,24,3.6,10,0.0,36.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,36.0
+10395,54,5.9,18,0.0,106.2,nan,0,,,,,,,,,,,,,,,,Tourtière,6.0,25.0,0,106.2
+10395,64,26.6,20,0.0,532.0,nan,0,,,,,,,,,,,,,,,,Wimmers gute Semmelknödel,5.0,12.0,0,532.0
+10396,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10396,16,13.9,20,0.0,278.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,278.0
+10396,22,16.8,30,0.0,504.0,nan,0,,,,,,,,,,,,,,,,Gustaf's Knäckebröd,5.0,9.0,0,504.0
+10397,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10397,39,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,432.0
+10397,53,26.2,25,0.0,655.0,nan,0,,,,,,,,,,,,,,,,Perth Pasties,6.0,24.0,0,655.0
+10398,1,14.4,20,0.1000000014901161,259.19999957084656,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,259.19999957084656
+10398,40,14.7,30,0.1000000014901161,396.8999993428588,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,396.8999993428588
+10398,56,38.0,15,0.1000000014901161,512.9999991506338,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,512.9999991506338
+10399,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10399,23,7.2,40,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,288.0
+10399,75,6.2,10,0.0,62.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,62.0
+10400,2,15.2,20,0.0,304.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,304.0
+10400,51,42.4,15,0.0,636.0,nan,0,,,,,,,,,,,,,,,,Manjimup Dried Apples,7.0,24.0,0,636.0
+10400,70,12.0,25,0.0,300.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,300.0
+10401,12,30.4,15,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,456.0
+10401,32,25.6,10,0.0,256.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,256.0
+10401,56,38.0,5,0.0,190.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,190.0
+10402,13,4.6,48,0.050000000745058,209.7599998354912,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,209.7599998354912
+10402,35,14.4,24,0.050000000745058,328.319999742508,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,328.319999742508
+10402,68,10.0,20,0.050000000745058,189.99999985098842,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,189.99999985098842
+10403,1,14.4,12,0.0,172.8,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,172.8
+10403,21,8.0,18,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,144.0
+10403,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10404,5,17.0,20,0.0,340.0,nan,0,,,,,,,,,,,,,,,,Chef Anton's Gumbo Mix,2.0,2.0,0,340.0
+10404,29,99.0,15,0.0,1485.0,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,1485.0
+10404,36,15.2,25,0.0,380.0,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,380.0
+10405,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10405,59,44.0,30,0.0,1320.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,1320.0
+10405,76,14.4,15,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,216.0
+10406,2,15.2,15,0.0,228.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,228.0
+10406,20,64.8,5,0.0,324.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Marmalade,3.0,8.0,0,324.0
+10406,59,44.0,20,0.0,880.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,880.0
+10407,15,15.5,15,0.1000000014901161,209.249999653548,nan,0,,,,,,,,,,,,,,,,Genen Shouyu,2.0,6.0,0,209.249999653548
+10407,25,11.2,30,0.1000000014901161,302.399999499321,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,302.399999499321
+10407,49,16.0,40,0.1000000014901161,575.9999990463257,nan,0,,,,,,,,,,,,,,,,Maxilaku,3.0,23.0,0,575.9999990463257
+10408,40,14.7,10,0.0,147.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,147.0
+10408,56,38.0,12,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,456.0
+10408,72,34.8,5,0.0,174.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,174.0
+10409,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10409,16,13.9,30,0.0,417.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,417.0
+10409,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10410,19,7.3,20,0.0,146.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,146.0
+10410,35,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,288.0
+10410,49,16.0,15,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Maxilaku,3.0,23.0,0,240.0
+10411,1,14.4,12,0.0,172.8,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,172.8
+10411,39,14.4,45,0.0,648.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,648.0
+10411,77,10.4,10,0.0,104.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,104.0
+10412,13,4.6,10,0.0,46.0,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,46.0
+10412,56,38.0,10,0.0,380.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,380.0
+10412,65,16.8,15,0.0,252.0,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,252.0
+10413,8,32.0,20,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Northwoods Cranberry Sauce,2.0,3.0,0,640.0
+10413,42,9.8,12,0.0,117.60000000000001,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,117.60000000000001
+10413,67,11.2,30,0.0,336.0,nan,0,,,,,,,,,,,,,,,,Laughing Lumberjack Lager,1.0,16.0,0,336.0
+10414,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10414,25,11.2,24,0.0,268.79999999999995,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,268.79999999999995
+10414,31,10.0,18,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,180.0
+10415,11,14.0,10,0.0,140.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,140.0
+10415,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10415,63,35.1,25,0.0,877.5,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,877.5
+10416,3,8.0,10,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Aniseed Syrup,2.0,1.0,0,80.0
+10416,26,24.9,15,0.0,373.5,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,373.5
+10416,38,210.8,5,0.0,1054.0,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,1054.0
+10417,14,18.6,15,0.0,279.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,279.0
+10417,52,5.6,6,0.0,33.599999999999994,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,33.599999999999994
+10417,60,27.2,15,0.0,408.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,408.0
+10418,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10418,56,38.0,12,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,456.0
+10418,65,16.8,15,0.0,252.0,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,252.0
+10419,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10419,17,31.2,15,0.0,468.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,468.0
+10419,33,2.0,25,0.0,50.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,50.0
+10420,2,15.2,30,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,456.0
+10420,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10420,50,13.0,30,0.0,390.0,nan,0,,,,,,,,,,,,,,,,Valkoinen suklaa,3.0,23.0,0,390.0
+10421,19,7.3,10,0.0,73.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,73.0
+10421,37,20.8,6,0.0,124.80000000000001,nan,0,,,,,,,,,,,,,,,,Gravad lax,8.0,17.0,0,124.80000000000001
+10421,76,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,288.0
+10422,19,7.3,35,0.0,255.5,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,255.5
+10422,43,36.8,20,0.0,736.0,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,736.0
+10422,70,12.0,25,0.0,300.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,300.0
+10423,7,24.0,40,0.0,960.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,960.0
+10423,26,24.9,24,0.0,597.5999999999999,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,597.5999999999999
+10423,68,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,200.0
+10424,26,24.9,6,0.0,149.39999999999998,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,149.39999999999998
+10424,30,20.7,25,0.0,517.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,517.5
+10424,43,36.8,24,0.0,883.1999999999999,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,883.1999999999999
+10425,2,15.2,10,0.0,152.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,152.0
+10425,3,8.0,15,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Aniseed Syrup,2.0,1.0,0,120.0
+10425,7,24.0,12,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,288.0
+10426,14,18.6,18,0.0,334.8,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,334.8
+10426,31,10.0,14,0.0,140.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,140.0
+10426,75,6.2,10,0.0,62.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,62.0
+10427,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10427,4,17.6,30,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,528.0
+10427,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10427,50,13.0,10,0.0,130.0,nan,0,,,,,,,,,,,,,,,,Valkoinen suklaa,3.0,23.0,0,130.0
+10428,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10428,22,16.8,30,0.0,504.0,nan,0,,,,,,,,,,,,,,,,Gustaf's Knäckebröd,5.0,9.0,0,504.0
+10428,64,26.6,20,0.0,532.0,nan,0,,,,,,,,,,,,,,,,Wimmers gute Semmelknödel,5.0,12.0,0,532.0
+10429,16,13.9,20,0.0,278.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,278.0
+10429,31,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,100.0
+10429,43,36.8,25,0.0,919.9999999999999,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,919.9999999999999
+10430,9,77.6,6,0.0,465.59999999999997,nan,0,,,,,,,,,,,,,,,,Mishi Kobe Niku,6.0,4.0,0,465.59999999999997
+10430,13,4.6,12,0.0,55.199999999999996,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,55.199999999999996
+10430,70,12.0,15,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,180.0
+10431,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10431,18,50.0,8,0.0,400.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,400.0
+10431,56,38.0,12,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,456.0
+10432,12,30.4,20,0.050000000745058,577.5999995470048,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,577.5999995470048
+10432,35,14.4,30,0.050000000745058,410.399999678135,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,410.399999678135
+10432,71,17.2,20,0.050000000745058,326.7999997437001,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,326.7999997437001
+10433,13,4.6,15,0.1000000014901161,62.09999989718199,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,62.09999989718199
+10433,41,7.7,6,0.1000000014901161,41.579999931156635,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,41.579999931156635
+10433,60,27.2,15,0.1000000014901161,367.1999993920326,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,367.1999993920326
+10434,4,17.6,16,0.0,281.6,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,281.6
+10434,17,31.2,36,0.0,1123.2,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,1123.2
+10434,62,39.4,25,0.0,985.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,985.0
+10435,1,14.4,10,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,144.0
+10435,40,14.7,20,0.0,294.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,294.0
+10435,63,35.1,20,0.0,702.0,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,702.0
+10436,1,14.4,60,0.050000000745058,820.79999935627,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,820.79999935627
+10436,18,50.0,30,0.050000000745058,1424.9999988824131,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1424.9999988824131
+10436,36,15.2,30,0.050000000745058,433.1999996602536,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,433.1999996602536
+10437,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10437,34,11.2,25,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,280.0
+10437,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10438,13,4.6,8,0.0,36.8,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,36.8
+10438,39,14.4,15,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,216.0
+10438,71,17.2,12,0.0,206.39999999999998,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,206.39999999999998
+10439,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10439,29,99.0,20,0.0,1980.0,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,1980.0
+10439,39,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,432.0
+10440,4,17.6,20,0.0,352.0,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,352.0
+10440,40,14.7,40,0.0,588.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,588.0
+10440,71,17.2,15,0.0,258.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,258.0
+10441,38,210.8,6,0.0,1264.8000000000002,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,1264.8000000000002
+10441,46,12.0,15,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,180.0
+10441,53,26.2,20,0.0,524.0,nan,0,,,,,,,,,,,,,,,,Perth Pasties,6.0,24.0,0,524.0
+10442,11,14.0,6,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,84.0
+10442,44,15.5,18,0.0,279.0,nan,0,,,,,,,,,,,,,,,,Gula Malacca,2.0,20.0,0,279.0
+10442,51,42.4,15,0.0,636.0,nan,0,,,,,,,,,,,,,,,,Manjimup Dried Apples,7.0,24.0,0,636.0
+10443,1,14.4,24,0.0,345.6,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,345.6
+10443,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10443,31,10.0,30,0.0,300.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,300.0
+10444,17,31.2,30,0.0,936.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,936.0
+10444,28,36.4,12,0.0,436.79999999999995,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,436.79999999999995
+10444,62,39.4,40,0.0,1576.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,1576.0
+10445,16,13.9,20,0.0,278.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,278.0
+10445,39,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,432.0
+10445,47,7.6,40,0.0,304.0,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,304.0
+10446,4,17.6,21,0.0,369.6,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,369.6
+10446,34,11.2,10,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,112.0
+10446,56,38.0,20,0.0,760.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,760.0
+10447,19,7.3,30,0.0,219.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,219.0
+10447,38,210.8,10,0.0,2108.0,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,2108.0
+10447,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10448,26,24.9,6,0.0,149.39999999999998,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,149.39999999999998
+10448,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10448,43,36.8,18,0.0,662.4,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,662.4
+10449,28,36.4,25,0.1000000014901161,818.9999986439943,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,818.9999986439943
+10449,39,14.4,20,0.1000000014901161,259.19999957084656,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,259.19999957084656
+10449,46,12.0,15,0.1000000014901161,161.9999997317791,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,161.9999997317791
+10450,7,24.0,15,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,360.0
+10450,52,5.6,6,0.0,33.599999999999994,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,33.599999999999994
+10450,71,17.2,10,0.0,172.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,172.0
+10451,26,24.9,12,0.0,298.79999999999995,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,298.79999999999995
+10451,44,15.5,40,0.0,620.0,nan,0,,,,,,,,,,,,,,,,Gula Malacca,2.0,20.0,0,620.0
+10451,45,7.6,21,0.0,159.6,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,159.6
+10452,8,32.0,10,0.0,320.0,nan,0,,,,,,,,,,,,,,,,Northwoods Cranberry Sauce,2.0,3.0,0,320.0
+10452,19,7.3,20,0.0,146.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,146.0
+10452,63,35.1,12,0.0,421.20000000000005,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,421.20000000000005
+10453,24,3.6,15,0.0,54.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,54.0
+10453,48,10.2,15,0.0,153.0,nan,0,,,,,,,,,,,,,,,,Chocolade,3.0,22.0,0,153.0
+10454,1,14.4,12,0.0,172.8,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,172.8
+10454,29,99.0,18,0.0,1782.0,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,1782.0
+10454,60,27.2,15,0.0,408.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,408.0
+10455,4,17.6,15,0.0,264.0,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,264.0
+10455,8,32.0,6,0.0,192.0,nan,0,,,,,,,,,,,,,,,,Northwoods Cranberry Sauce,2.0,3.0,0,192.0
+10455,24,3.6,15,0.0,54.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,54.0
+10455,48,10.2,15,0.0,153.0,nan,0,,,,,,,,,,,,,,,,Chocolade,3.0,22.0,0,153.0
+10456,16,13.9,30,0.0,417.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,417.0
+10456,33,2.0,20,0.0,40.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,40.0
+10456,42,9.8,25,0.0,245.00000000000003,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,245.00000000000003
+10457,17,31.2,10,0.0,312.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,312.0
+10457,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10457,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10458,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10458,47,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,91.19999999999999
+10458,70,12.0,20,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,240.0
+10459,19,7.3,12,0.0,87.6,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,87.6
+10459,30,20.7,25,0.0,517.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,517.5
+10459,38,210.8,10,0.0,2108.0,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,2108.0
+10460,4,17.6,30,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,528.0
+10460,13,4.6,6,0.0,27.599999999999998,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,27.599999999999998
+10460,47,7.6,40,0.0,304.0,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,304.0
+10461,1,14.4,12,0.1000000014901161,155.51999974250793,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,155.51999974250793
+10461,39,14.4,20,0.1000000014901161,259.19999957084656,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,259.19999957084656
+10461,56,38.0,10,0.1000000014901161,341.9999994337559,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,341.9999994337559
+10462,25,11.2,6,0.0,67.19999999999999,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,67.19999999999999
+10462,27,35.1,15,0.0,526.5,nan,0,,,,,,,,,,,,,,,,Schoggi Schokolade,3.0,11.0,0,526.5
+10462,63,35.1,10,0.0,351.0,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,351.0
+10463,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10463,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10463,57,15.6,6,0.0,93.6,nan,0,,,,,,,,,,,,,,,,Ravioli Angelo,5.0,26.0,0,93.6
+10464,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10464,51,42.4,15,0.0,636.0,nan,0,,,,,,,,,,,,,,,,Manjimup Dried Apples,7.0,24.0,0,636.0
+10464,76,14.4,15,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,216.0
+10465,17,31.2,30,0.0,936.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,936.0
+10465,24,3.6,12,0.0,43.2,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,43.2
+10465,67,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Laughing Lumberjack Lager,1.0,16.0,0,224.0
+10466,12,30.4,30,0.0,912.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,912.0
+10466,31,10.0,12,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,120.0
+10466,32,25.6,15,0.0,384.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,384.0
+10467,21,8.0,40,0.0,320.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,320.0
+10467,54,5.9,10,0.0,59.0,nan,0,,,,,,,,,,,,,,,,Tourtière,6.0,25.0,0,59.0
+10467,76,14.4,5,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,72.0
+10468,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10468,35,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,432.0
+10468,40,14.7,20,0.0,294.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,294.0
+10469,17,31.2,35,0.0,1092.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,1092.0
+10469,40,14.7,35,0.0,514.5,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,514.5
+10469,47,7.6,30,0.0,228.0,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,228.0
+10470,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10470,45,7.6,21,0.0,159.6,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,159.6
+10470,52,5.6,40,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,224.0
+10471,14,18.6,25,0.050000000745058,441.7499996535481,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,441.7499996535481
+10471,46,12.0,6,0.050000000745058,68.39999994635583,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,68.39999994635583
+10471,63,35.1,15,0.050000000745058,500.174999607727,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,500.174999607727
+10472,33,2.0,6,0.0,12.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,12.0
+10472,70,12.0,9,0.0,108.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,108.0
+10473,17,31.2,10,0.1500000059604644,265.19999814033514,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,265.19999814033514
+10473,21,8.0,20,0.1500000059604644,135.9999990463257,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,135.9999990463257
+10473,89,0.0,0,0.0,0.0,nan,0,,,,,,,,,,,,,,,,,,,0,0.0
+10474,4,17.6,25,0.0,440.00000000000006,nan,0,,,,,,,,,,,,,,,,Chef Anton's Cajun Seasoning,2.0,2.0,0,440.00000000000006
+10474,5,17.0,10,0.0,170.0,nan,0,,,,,,,,,,,,,,,,Chef Anton's Gumbo Mix,2.0,2.0,0,170.0
+10474,59,44.0,6,0.0,264.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,264.0
+10475,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10475,16,13.9,15,0.0,208.5,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,208.5
+10475,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10476,36,15.2,6,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,91.19999999999999
+10476,52,5.6,6,0.0,33.599999999999994,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,33.599999999999994
+10476,64,26.6,6,0.0,159.60000000000002,nan,0,,,,,,,,,,,,,,,,Wimmers gute Semmelknödel,5.0,12.0,0,159.60000000000002
+10477,9,77.6,20,0.0,1552.0,nan,0,,,,,,,,,,,,,,,,Mishi Kobe Niku,6.0,4.0,0,1552.0
+10477,34,11.2,12,0.0,134.39999999999998,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,134.39999999999998
+10477,57,15.6,40,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Ravioli Angelo,5.0,26.0,0,624.0
+10478,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10478,2,15.2,10,0.0,152.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,152.0
+10478,23,7.2,15,0.0,108.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,108.0
+10479,38,210.8,8,0.0,1686.4,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,1686.4
+10479,69,28.8,15,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Gudbrandsdalsost,4.0,15.0,0,432.0
+10479,70,12.0,20,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,240.0
+10480,18,50.0,30,0.0,1500.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1500.0
+10480,41,7.7,10,0.0,77.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,77.0
+10480,43,36.8,25,0.0,919.9999999999999,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,919.9999999999999
+10481,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10481,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10481,76,14.4,15,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,216.0
+10482,30,20.7,22,0.0,455.4,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,455.4
+10482,47,7.6,10,0.0,76.0,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,76.0
+10482,51,42.4,8,0.0,339.2,nan,0,,,,,,,,,,,,,,,,Manjimup Dried Apples,7.0,24.0,0,339.2
+10483,13,4.6,20,0.0,92.0,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,92.0
+10483,17,31.2,15,0.0,468.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,468.0
+10483,24,3.6,10,0.0,36.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,36.0
+10484,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10484,38,210.8,20,0.0,4216.0,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,4216.0
+10484,68,10.0,15,0.0,150.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,150.0
+10485,7,24.0,15,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,360.0
+10485,51,42.4,20,0.0,848.0,nan,0,,,,,,,,,,,,,,,,Manjimup Dried Apples,7.0,24.0,0,848.0
+10485,72,34.8,10,0.0,348.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,348.0
+10486,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10486,24,3.6,15,0.0,54.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,54.0
+10486,64,26.6,20,0.0,532.0,nan,0,,,,,,,,,,,,,,,,Wimmers gute Semmelknödel,5.0,12.0,0,532.0
+10487,19,7.3,50,0.0,365.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,365.0
+10487,37,20.8,25,0.0,520.0,nan,0,,,,,,,,,,,,,,,,Gravad lax,8.0,17.0,0,520.0
+10487,76,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,432.0
+10488,28,36.4,20,0.050000000745058,691.5999994575978,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,691.5999994575978
+10488,34,11.2,30,0.050000000745058,319.19999974966055,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,319.19999974966055
+10488,52,5.6,15,0.050000000745058,79.79999993741514,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,79.79999993741514
+10489,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10489,62,39.4,20,0.0,788.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,788.0
+10489,72,34.8,10,0.0,348.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,348.0
+10490,1,14.4,20,0.1000000014901161,259.19999957084656,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,259.19999957084656
+10490,29,99.0,6,0.1000000014901161,534.599999114871,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,534.599999114871
+10490,71,17.2,15,0.1000000014901161,232.19999961555004,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,232.19999961555004
+10491,2,15.2,30,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,456.0
+10491,54,5.9,20,0.0,118.0,nan,0,,,,,,,,,,,,,,,,Tourtière,6.0,25.0,0,118.0
+10491,68,10.0,15,0.0,150.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,150.0
+10492,20,64.8,20,0.0,1296.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Marmalade,3.0,8.0,0,1296.0
+10492,52,5.6,30,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,168.0
+10492,76,14.4,10,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,144.0
+10493,10,24.8,12,0.0,297.6,nan,0,,,,,,,,,,,,,,,,Ikura,8.0,4.0,0,297.6
+10493,31,10.0,30,0.0,300.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,300.0
+10493,47,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Zaanse koeken,3.0,22.0,0,91.19999999999999
+10494,13,4.6,15,0.0,69.0,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,69.0
+10494,62,39.4,25,0.0,985.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,985.0
+10494,77,10.4,30,0.0,312.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,312.0
+10495,24,3.6,30,0.0,108.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,108.0
+10495,64,26.6,20,0.0,532.0,nan,0,,,,,,,,,,,,,,,,Wimmers gute Semmelknödel,5.0,12.0,0,532.0
+10495,65,16.8,12,0.0,201.60000000000002,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,201.60000000000002
+10496,11,14.0,20,0.050000000745058,265.9999997913838,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,265.9999997913838
+10496,17,31.2,15,0.050000000745058,444.5999996513129,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,444.5999996513129
+10496,75,6.2,25,0.050000000745058,147.24999988451603,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,147.24999988451603
+10497,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10497,18,50.0,15,0.0,750.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,750.0
+10497,56,38.0,8,0.0,304.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,304.0
+10498,26,24.9,20,0.0,498.0,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,498.0
+10498,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10498,77,10.4,8,0.0,83.2,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,83.2
+10499,19,7.3,20,0.0,146.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,146.0
+10499,23,7.2,40,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,288.0
+10499,40,14.7,30,0.0,441.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,441.0
+10500,1,14.4,10,0.1500000059604644,122.39999914169313,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,122.39999914169313
+10500,11,14.0,12,0.1500000059604644,142.799998998642,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,142.799998998642
+10500,23,7.2,15,0.1500000059604644,91.79999935626985,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,91.79999935626985
+10501,30,20.7,25,0.0,517.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,517.5
+10501,56,38.0,12,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,456.0
+10501,62,39.4,30,0.0,1182.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,1182.0
+10502,17,31.2,40,0.2000000029802322,998.3999962806702,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,998.3999962806702
+10502,24,3.6,20,0.2000000029802322,57.59999978542328,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,57.59999978542328
+10502,48,10.2,25,0.2000000029802322,203.99999924004075,nan,0,,,,,,,,,,,,,,,,Chocolade,3.0,22.0,0,203.99999924004075
+10503,27,35.1,25,0.0,877.5,nan,0,,,,,,,,,,,,,,,,Schoggi Schokolade,3.0,11.0,0,877.5
+10503,39,14.4,50,0.0,720.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,720.0
+10503,71,17.2,15,0.0,258.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,258.0
+10504,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10504,50,13.0,10,0.0,130.0,nan,0,,,,,,,,,,,,,,,,Valkoinen suklaa,3.0,23.0,0,130.0
+10504,65,16.8,25,0.0,420.0,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,420.0
+10505,18,50.0,30,0.050000000745058,1424.9999988824131,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1424.9999988824131
+10505,59,44.0,20,0.050000000745058,835.999999344349,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,835.999999344349
+10505,76,14.4,10,0.050000000745058,136.79999989271167,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,136.79999989271167
+10506,16,13.9,30,0.0,417.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,417.0
+10506,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10506,46,12.0,15,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,180.0
+10507,1,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,432.0
+10507,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10507,21,8.0,20,0.0,160.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,160.0
+10508,23,7.2,12,0.0,86.4,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,86.4
+10508,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10508,77,10.4,10,0.0,104.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,104.0
+10509,6,20.0,25,0.0,500.0,nan,0,,,,,,,,,,,,,,,,Grandma's Boysenberry Spread,2.0,3.0,0,500.0
+10509,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10509,21,8.0,15,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,120.0
+10510,50,13.0,30,0.0,390.0,nan,0,,,,,,,,,,,,,,,,Valkoinen suklaa,3.0,23.0,0,390.0
+10510,63,35.1,15,0.0,526.5,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,526.5
+10510,72,34.8,8,0.0,278.4,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,278.4
+10511,17,31.2,30,0.0,936.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,936.0
+10511,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10511,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10512,14,18.6,10,0.0,186.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,186.0
+10512,28,36.4,8,0.0,291.2,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,291.2
+10512,45,7.6,20,0.0,152.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,152.0
+10513,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10513,18,50.0,12,0.0,600.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,600.0
+10513,68,10.0,15,0.0,150.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,150.0
+10514,33,2.0,25,0.0,50.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,50.0
+10514,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10514,62,39.4,30,0.0,1182.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,1182.0
+10515,11,14.0,15,0.1000000014901161,188.99999968707561,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,188.99999968707561
+10515,43,36.8,20,0.1000000014901161,662.3999989032745,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,662.3999989032745
+10515,56,38.0,15,0.1000000014901161,512.9999991506338,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,512.9999991506338
+10516,2,15.2,20,0.0,304.0,nan,0,,,,,,,,,,,,,,,,Chang,1.0,1.0,0,304.0
+10516,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10516,61,22.8,15,0.0,342.0,nan,0,,,,,,,,,,,,,,,,Sirop d'érable,2.0,29.0,0,342.0
+10517,16,13.9,30,0.0,417.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,417.0
+10517,24,3.6,12,0.0,43.2,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,43.2
+10517,76,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,288.0
+10518,7,24.0,10,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,240.0
+10518,60,27.2,20,0.0,544.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,544.0
+10518,72,34.8,10,0.0,348.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,348.0
+10519,12,30.4,15,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,456.0
+10519,16,13.9,25,0.0,347.5,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,347.5
+10519,35,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,288.0
+10520,3,8.0,30,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Aniseed Syrup,2.0,1.0,0,240.0
+10520,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10520,68,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,200.0
+10521,19,7.3,12,0.0,87.6,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,87.6
+10521,26,24.9,15,0.0,373.5,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,373.5
+10521,53,26.2,20,0.0,524.0,nan,0,,,,,,,,,,,,,,,,Perth Pasties,6.0,24.0,0,524.0
+10522,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10522,36,15.2,25,0.0,380.0,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,380.0
+10522,40,14.7,12,0.0,176.39999999999998,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,176.39999999999998
+10523,10,24.8,20,0.0,496.0,nan,0,,,,,,,,,,,,,,,,Ikura,8.0,4.0,0,496.0
+10523,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10523,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10524,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10524,16,13.9,15,0.0,208.5,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,208.5
+10524,69,28.8,10,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Gudbrandsdalsost,4.0,15.0,0,288.0
+10525,18,50.0,25,0.0,1250.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1250.0
+10525,42,9.8,12,0.0,117.60000000000001,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,117.60000000000001
+10525,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10526,12,30.4,16,0.0,486.4,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,486.4
+10526,32,25.6,40,0.0,1024.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,1024.0
+10526,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10527,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10527,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10527,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10528,14,18.6,15,0.0,279.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,279.0
+10528,21,8.0,25,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,200.0
+10528,71,17.2,20,0.0,344.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,344.0
+10529,17,31.2,30,0.0,936.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,936.0
+10529,59,44.0,25,0.0,1100.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,1100.0
+10529,70,12.0,12,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,144.0
+10530,9,77.6,10,0.0,776.0,nan,0,,,,,,,,,,,,,,,,Mishi Kobe Niku,6.0,4.0,0,776.0
+10530,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10530,38,210.8,10,0.0,2108.0,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,2108.0
+10531,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10531,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10531,52,5.6,25,0.0,140.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,140.0
+10532,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10532,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10532,31,10.0,30,0.0,300.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,300.0
+10533,21,8.0,40,0.0,320.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,320.0
+10533,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10533,77,10.4,12,0.0,124.80000000000001,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,124.80000000000001
+10534,14,18.6,30,0.0,558.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,558.0
+10534,25,11.2,12,0.0,134.39999999999998,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,134.39999999999998
+10534,60,27.2,10,0.0,272.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,272.0
+10535,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10535,35,14.4,18,0.0,259.2,nan,0,,,,,,,,,,,,,,,,Steeleye Stout,1.0,16.0,0,259.2
+10535,42,9.8,12,0.0,117.60000000000001,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,117.60000000000001
+10536,13,4.6,20,0.0,92.0,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,92.0
+10536,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10536,59,44.0,8,0.0,352.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,352.0
+10537,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10537,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10537,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10538,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10538,29,99.0,20,0.0,1980.0,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,1980.0
+10538,39,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,288.0
+10539,1,14.4,12,0.0,172.8,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,172.8
+10539,34,11.2,25,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,280.0
+10539,71,17.2,30,0.0,516.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,516.0
+10540,11,14.0,20,0.1000000014901161,251.9999995827675,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,251.9999995827675
+10540,21,8.0,15,0.1000000014901161,107.99999982118607,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,107.99999982118607
+10540,62,39.4,15,0.1000000014901161,531.8999991193414,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,531.8999991193414
+10541,16,13.9,20,0.0,278.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,278.0
+10541,19,7.3,12,0.0,87.6,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,87.6
+10541,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10542,9,77.6,12,0.0,931.1999999999999,nan,0,,,,,,,,,,,,,,,,Mishi Kobe Niku,6.0,4.0,0,931.1999999999999
+10542,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10542,45,7.6,30,0.0,228.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,228.0
+10543,1,14.4,10,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,144.0
+10543,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10543,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10544,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10544,18,50.0,15,0.0,750.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,750.0
+10544,56,38.0,10,0.0,380.0,nan,0,,,,,,,,,,,,,,,,Gnocchi di nonna Alice,5.0,26.0,0,380.0
+10545,7,24.0,10,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,240.0
+10545,32,25.6,20,0.0,512.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,512.0
+10545,76,14.4,15,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,216.0
+10546,13,4.6,28,0.050000000745058,122.35999990403651,nan,0,,,,,,,,,,,,,,,,Konbu,8.0,6.0,0,122.35999990403651
+10546,42,9.8,12,0.050000000745058,111.7199999123812,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,111.7199999123812
+10546,62,39.4,20,0.050000000745058,748.5999994128944,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,748.5999994128944
+10547,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10547,38,210.8,10,0.0,2108.0,nan,0,,,,,,,,,,,,,,,,Côte de Blaye,1.0,18.0,0,2108.0
+10547,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10548,19,7.3,20,0.0,146.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,146.0
+10548,21,8.0,12,0.0,96.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,96.0
+10548,32,25.6,6,0.0,153.60000000000002,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,153.60000000000002
+10549,11,14.0,30,0.0,420.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,420.0
+10549,39,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,288.0
+10549,42,9.8,12,0.0,117.60000000000001,nan,0,,,,,,,,,,,,,,,,Singaporean Hokkien Fried Mee,5.0,20.0,0,117.60000000000001
+10550,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10550,16,13.9,30,0.0,417.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,417.0
+10550,63,35.1,10,0.0,351.0,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,351.0
+10551,20,64.8,12,0.0,777.5999999999999,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Marmalade,3.0,8.0,0,777.5999999999999
+10551,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10551,61,22.8,20,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Sirop d'érable,2.0,29.0,0,456.0
+10552,28,36.4,10,0.0,364.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,364.0
+10552,34,11.2,25,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,280.0
+10552,46,12.0,20,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,240.0
+10553,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10553,24,3.6,30,0.0,108.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,108.0
+10553,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10554,10,24.8,12,0.0,297.6,nan,0,,,,,,,,,,,,,,,,Ikura,8.0,4.0,0,297.6
+10554,31,10.0,30,0.0,300.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,300.0
+10554,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10555,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10555,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10555,60,27.2,15,0.0,408.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,408.0
+10556,21,8.0,12,0.0,96.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,96.0
+10556,30,20.7,25,0.0,517.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,517.5
+10556,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10557,26,24.9,20,0.0,498.0,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,498.0
+10557,52,5.6,10,0.0,56.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,56.0
+10557,63,35.1,12,0.0,421.20000000000005,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,421.20000000000005
+10558,16,13.9,30,0.0,417.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,417.0
+10558,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10558,44,15.5,20,0.0,310.0,nan,0,,,,,,,,,,,,,,,,Gula Malacca,2.0,20.0,0,310.0
+10559,19,7.3,20,0.0,146.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,146.0
+10559,23,7.2,40,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,288.0
+10559,70,12.0,20,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,240.0
+10560,18,50.0,30,0.050000000745058,1424.9999988824131,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1424.9999988824131
+10560,41,7.7,12,0.050000000745058,87.77999993115665,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,87.77999993115665
+10560,46,12.0,20,0.050000000745058,227.9999998211861,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,227.9999998211861
+10561,7,24.0,10,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,240.0
+10561,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10561,63,35.1,12,0.0,421.20000000000005,nan,0,,,,,,,,,,,,,,,,Vegie-spread,2.0,7.0,0,421.20000000000005
+10562,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10562,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10562,45,7.6,18,0.0,136.79999999999998,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,136.79999999999998
+10563,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10563,16,13.9,25,0.0,347.5,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,347.5
+10563,30,20.7,12,0.0,248.39999999999998,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,248.39999999999998
+10564,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10564,34,11.2,15,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,168.0
+10564,65,16.8,20,0.0,336.0,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,336.0
+10565,17,31.2,18,0.0,561.6,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,561.6
+10565,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10565,40,14.7,12,0.0,176.39999999999998,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,176.39999999999998
+10566,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10566,28,36.4,25,0.0,910.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,910.0
+10566,75,6.2,30,0.0,186.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,186.0
+10567,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10567,54,5.9,20,0.0,118.0,nan,0,,,,,,,,,,,,,,,,Tourtière,6.0,25.0,0,118.0
+10567,64,26.6,10,0.0,266.0,nan,0,,,,,,,,,,,,,,,,Wimmers gute Semmelknödel,5.0,12.0,0,266.0
+10568,14,18.6,15,0.0,279.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,279.0
+10568,21,8.0,12,0.0,96.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,96.0
+10568,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10569,19,7.3,20,0.0,146.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,146.0
+10569,26,24.9,15,0.0,373.5,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,373.5
+10569,52,5.6,12,0.0,67.19999999999999,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,67.19999999999999
+10570,7,24.0,25,0.0,600.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,600.0
+10570,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10570,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10571,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10571,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10571,75,6.2,18,0.0,111.60000000000001,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,111.60000000000001
+10572,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10572,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10572,55,19.2,12,0.0,230.39999999999998,nan,0,,,,,,,,,,,,,,,,Pâté chinois,6.0,25.0,0,230.39999999999998
+10573,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10573,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10573,62,39.4,12,0.0,472.79999999999995,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,472.79999999999995
+10574,12,30.4,15,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,456.0
+10574,32,25.6,20,0.0,512.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,512.0
+10574,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10575,16,13.9,20,0.0,278.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,278.0
+10575,36,15.2,25,0.0,380.0,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,380.0
+10575,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10576,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10576,28,36.4,10,0.0,364.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,364.0
+10576,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10577,7,24.0,40,0.0,960.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,960.0
+10577,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10577,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10578,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10578,23,7.2,25,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,180.0
+10578,68,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,200.0
+10579,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10579,40,14.7,15,0.0,220.5,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,220.5
+10579,70,12.0,12,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,144.0
+10580,3,8.0,25,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Aniseed Syrup,2.0,1.0,0,200.0
+10580,55,19.2,12,0.0,230.39999999999998,nan,0,,,,,,,,,,,,,,,,Pâté chinois,6.0,25.0,0,230.39999999999998
+10580,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10581,1,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,432.0
+10581,18,50.0,10,0.0,500.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,500.0
+10581,62,39.4,12,0.0,472.79999999999995,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,472.79999999999995
+10582,23,7.2,25,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,180.0
+10582,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10582,77,10.4,20,0.0,208.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,208.0
+10583,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10583,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10583,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10584,11,14.0,30,0.0,420.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,420.0
+10584,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10584,40,14.7,20,0.0,294.0,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,294.0
+10585,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10585,31,10.0,12,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,120.0
+10585,45,7.6,20,0.0,152.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,152.0
+10586,12,30.4,18,0.0,547.1999999999999,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,547.1999999999999
+10586,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10586,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10587,20,64.8,12,0.0,777.5999999999999,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Marmalade,3.0,8.0,0,777.5999999999999
+10587,33,2.0,50,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,100.0
+10587,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10588,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10588,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10588,16,13.9,20,0.0,278.0,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,278.0
+10589,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10589,36,15.2,20,0.0,304.0,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,304.0
+10589,52,5.6,10,0.0,56.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,56.0
+10590,23,7.2,25,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,180.0
+10590,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10590,62,39.4,12,0.0,472.79999999999995,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,472.79999999999995
+10591,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10591,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10591,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10592,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10592,19,7.3,12,0.0,87.6,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,87.6
+10592,43,36.8,12,0.0,441.59999999999997,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,441.59999999999997
+10593,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10593,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10593,68,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,100.0
+10594,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10594,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10594,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10595,17,31.2,30,0.0,936.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,936.0
+10595,26,24.9,25,0.0,622.5,nan,0,,,,,,,,,,,,,,,,Gumbär Gummibärchen,3.0,11.0,0,622.5
+10595,77,10.4,15,0.0,156.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,156.0
+10596,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10596,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10596,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10597,1,14.4,12,0.0,172.8,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,172.8
+10597,62,39.4,10,0.0,394.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,394.0
+10597,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10598,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10598,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10598,36,15.2,12,0.0,182.39999999999998,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,182.39999999999998
+10599,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10599,21,8.0,20,0.0,160.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,160.0
+10599,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10600,7,24.0,30,0.0,720.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,720.0
+10600,53,26.2,20,0.0,524.0,nan,0,,,,,,,,,,,,,,,,Perth Pasties,6.0,24.0,0,524.0
+10600,70,12.0,12,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,144.0
+10601,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10601,31,10.0,25,0.0,250.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,250.0
+10601,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10602,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10602,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10602,52,5.6,25,0.0,140.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,140.0
+10603,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10603,21,8.0,12,0.0,96.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,96.0
+10603,70,12.0,15,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,180.0
+10604,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10604,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10604,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10605,11,14.0,15,0.0,210.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,210.0
+10605,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10605,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10606,7,24.0,25,0.0,600.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,600.0
+10606,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10606,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10607,17,31.2,30,0.0,936.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,936.0
+10607,39,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,360.0
+10607,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10608,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10608,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10608,68,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,100.0
+10609,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10609,43,36.8,15,0.0,552.0,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,552.0
+10609,77,10.4,20,0.0,208.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,208.0
+10610,12,30.4,15,0.0,456.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,456.0
+10610,31,10.0,25,0.0,250.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,250.0
+10610,60,27.2,15,0.0,408.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,408.0
+10611,1,14.4,18,0.0,259.2,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,259.2
+10611,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10611,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10612,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10612,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10612,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10613,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10613,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10613,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10614,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10614,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10614,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10615,7,24.0,30,0.0,720.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,720.0
+10615,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10615,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10616,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10616,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10616,65,16.8,20,0.0,336.0,nan,0,,,,,,,,,,,,,,,,Louisiana Fiery Hot Pepper Sauce,2.0,2.0,0,336.0
+10617,1,14.4,12,0.0,172.8,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,172.8
+10617,18,50.0,18,0.0,900.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,900.0
+10617,72,34.8,10,0.0,348.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,348.0
+10618,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10618,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10618,52,5.6,25,0.0,140.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,140.0
+10619,14,18.6,15,0.0,279.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,279.0
+10619,21,8.0,20,0.0,160.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,160.0
+10619,60,27.2,15,0.0,408.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,408.0
+10620,17,31.2,30,0.0,936.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,936.0
+10620,29,99.0,10,0.0,990.0,nan,0,,,,,,,,,,,,,,,,Thüringer Rostbratwurst,6.0,12.0,0,990.0
+10620,70,12.0,12,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,144.0
+10621,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10621,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10621,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10622,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10622,62,39.4,18,0.0,709.1999999999999,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,709.1999999999999
+10622,76,14.4,10,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Lakkalikööri,1.0,23.0,0,144.0
+10623,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10623,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10623,52,5.6,25,0.0,140.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,140.0
+10624,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10624,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10624,70,12.0,10,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,120.0
+10625,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10625,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10625,32,25.6,20,0.0,512.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,512.0
+10626,1,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,432.0
+10626,24,3.6,25,0.0,90.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,90.0
+10626,40,14.7,15,0.0,220.5,nan,0,,,,,,,,,,,,,,,,Boston Crab Meat,8.0,19.0,0,220.5
+10627,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10627,18,50.0,15,0.0,750.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,750.0
+10627,77,10.4,15,0.0,156.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,156.0
+10628,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10628,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10628,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10629,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10629,21,8.0,20,0.0,160.0,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Scones,3.0,8.0,0,160.0
+10629,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10630,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10630,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10630,75,6.2,30,0.0,186.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,186.0
+10631,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10631,34,11.2,18,0.0,201.6,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,201.6
+10631,46,12.0,20,0.0,240.0,nan,0,,,,,,,,,,,,,,,,Spegesild,8.0,21.0,0,240.0
+10632,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10632,31,10.0,25,0.0,250.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,250.0
+10632,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10633,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10633,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10633,59,44.0,15,0.0,660.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,660.0
+10634,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10634,23,7.2,15,0.0,108.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,108.0
+10634,45,7.6,20,0.0,152.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,152.0
+10635,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10635,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10635,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10636,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10636,16,13.9,18,0.0,250.20000000000002,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,250.20000000000002
+10636,43,36.8,12,0.0,441.59999999999997,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,441.59999999999997
+10637,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10637,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10637,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10638,14,18.6,30,0.0,558.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,558.0
+10638,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10638,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10639,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10639,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10639,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10640,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10640,19,7.3,20,0.0,146.0,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,146.0
+10640,43,36.8,10,0.0,368.0,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,368.0
+10641,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10641,30,20.7,12,0.0,248.39999999999998,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,248.39999999999998
+10641,62,39.4,20,0.0,788.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,788.0
+10642,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10642,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10642,41,7.7,18,0.0,138.6,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,138.6
+10642,68,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,100.0
+10643,1,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,432.0
+10643,18,50.0,15,0.0,750.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,750.0
+10643,52,5.6,25,0.0,140.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,140.0
+10643,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10644,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10644,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10644,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10644,70,12.0,10,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,120.0
+10645,17,31.2,15,0.0,468.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,468.0
+10645,31,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,100.0
+10645,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10645,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10646,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10646,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10646,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10646,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10647,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10647,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10647,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10647,77,10.4,12,0.0,124.80000000000001,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,124.80000000000001
+10648,7,24.0,15,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,360.0
+10648,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10648,52,5.6,12,0.0,67.19999999999999,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,67.19999999999999
+10648,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10649,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10649,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10649,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10649,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10650,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10650,23,7.2,15,0.0,108.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,108.0
+10650,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10650,70,12.0,10,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Outback Lager,1.0,7.0,0,120.0
+10651,14,18.6,12,0.0,223.20000000000002,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,223.20000000000002
+10651,28,36.4,18,0.0,655.1999999999999,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,655.1999999999999
+10651,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10652,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10652,16,13.9,18,0.0,250.20000000000002,nan,0,,,,,,,,,,,,,,,,Pavlova,3.0,7.0,0,250.20000000000002
+10652,60,27.2,12,0.0,326.4,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,326.4
+10653,11,14.0,24,0.0,336.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,336.0
+10653,20,64.8,18,0.0,1166.3999999999999,nan,0,,,,,,,,,,,,,,,,Sir Rodney's Marmalade,3.0,8.0,0,1166.3999999999999
+10653,44,15.5,25,0.0,387.5,nan,0,,,,,,,,,,,,,,,,Gula Malacca,2.0,20.0,0,387.5
+10654,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10654,23,7.2,30,0.0,216.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,216.0
+10654,68,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,200.0
+10655,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10655,31,10.0,12,0.0,120.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,120.0
+10655,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10656,18,50.0,20,0.0,1000.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,1000.0
+10656,36,15.2,25,0.0,380.0,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,380.0
+10656,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10657,7,24.0,15,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,360.0
+10657,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10657,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10658,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10658,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10658,72,34.8,10,0.0,348.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,348.0
+10659,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10659,33,2.0,40,0.0,80.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,80.0
+10659,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10660,14,18.6,12,0.0,223.20000000000002,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,223.20000000000002
+10660,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10660,60,27.2,15,0.0,408.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,408.0
+10661,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10661,18,50.0,18,0.0,900.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,900.0
+10661,43,36.8,12,0.0,441.59999999999997,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,441.59999999999997
+10662,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10662,39,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chartreuse verte,1.0,18.0,0,288.0
+10662,71,17.2,15,0.0,258.0,nan,0,,,,,,,,,,,,,,,,Flotemysost,4.0,15.0,0,258.0
+10663,19,7.3,15,0.0,109.5,nan,0,,,,,,,,,,,,,,,,Teatime Chocolate Biscuits,3.0,8.0,0,109.5
+10663,23,7.2,25,0.0,180.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,180.0
+10663,68,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,100.0
+10664,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10664,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10664,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10665,14,18.6,18,0.0,334.8,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,334.8
+10665,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10665,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10666,7,24.0,30,0.0,720.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,720.0
+10666,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10666,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10667,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10667,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10667,77,10.4,15,0.0,156.0,nan,0,,,,,,,,,,,,,,,,Original Frankfurter grüne Soße,2.0,12.0,0,156.0
+10668,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10668,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10668,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10669,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10669,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10669,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10670,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10670,34,11.2,25,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,280.0
+10670,60,27.2,15,0.0,408.0,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,408.0
+10671,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10671,28,36.4,18,0.0,655.1999999999999,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,655.1999999999999
+10671,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10672,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10672,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10672,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10673,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10673,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10673,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10674,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10674,28,36.4,15,0.0,546.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,546.0
+10674,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10675,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10675,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10675,68,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,100.0
+10676,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10676,11,14.0,12,0.0,168.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,168.0
+10676,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10677,17,31.2,30,0.0,936.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,936.0
+10677,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10677,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10678,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10678,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10678,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10679,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10679,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10679,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10680,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10680,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10680,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10681,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10681,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10681,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10682,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10682,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10682,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10683,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10683,30,20.7,18,0.0,372.59999999999997,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,372.59999999999997
+10683,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10684,12,30.4,18,0.0,547.1999999999999,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,547.1999999999999
+10684,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10684,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10685,7,24.0,30,0.0,720.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,720.0
+10685,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10685,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10686,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10686,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10686,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10687,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10687,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10687,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10688,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10688,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10688,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10689,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10689,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10689,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10690,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10690,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10690,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10691,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10691,24,3.6,25,0.0,90.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,90.0
+10691,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10692,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10692,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10692,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10693,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10693,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10693,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10694,1,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,432.0
+10694,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10694,60,27.2,12,0.0,326.4,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,326.4
+10695,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10695,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10695,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10696,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10696,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10696,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10697,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10697,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10697,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10698,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10698,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10698,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10699,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10699,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10699,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10700,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10700,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10700,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10751,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10751,28,36.4,18,0.0,655.1999999999999,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,655.1999999999999
+10751,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10752,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10752,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10752,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10753,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10753,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10753,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10754,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10754,18,50.0,18,0.0,900.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,900.0
+10754,43,36.8,12,0.0,441.59999999999997,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,441.59999999999997
+10755,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10755,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10755,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10756,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10756,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10756,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10757,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10757,24,3.6,25,0.0,90.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,90.0
+10757,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10758,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10758,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10758,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10759,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10759,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10759,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10760,1,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,432.0
+10760,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10760,60,27.2,12,0.0,326.4,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,326.4
+10761,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10761,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10761,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10762,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10762,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10762,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10763,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10763,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10763,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10764,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10764,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10764,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10765,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10765,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10765,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10766,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10766,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10766,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10767,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10767,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10767,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10768,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10768,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10768,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10769,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10769,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10769,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10770,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10770,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10770,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10771,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10771,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10771,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10772,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10772,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10772,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10773,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10773,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10773,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10774,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10774,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10774,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10775,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10775,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10775,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10776,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10776,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10776,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10777,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10777,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10777,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10778,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10778,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10778,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10779,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10779,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10779,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10780,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10780,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10780,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10781,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10781,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10781,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10782,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10782,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10782,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10783,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10783,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10783,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10784,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10784,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10784,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10785,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10785,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10785,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10786,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10786,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10786,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10787,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10787,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10787,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10788,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10788,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10788,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10789,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10789,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10789,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10790,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10790,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10790,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10791,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10791,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10791,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10792,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10792,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10792,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10793,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10793,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10793,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10794,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10794,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10794,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10794,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10795,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10795,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10795,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10795,68,10.0,10,0.0,100.0,nan,0,,,,,,,,,,,,,,,,Scottish Longbreads,3.0,8.0,0,100.0
+10796,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10796,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10796,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10796,72,34.8,10,0.0,348.0,nan,0,,,,,,,,,,,,,,,,Mozzarella di Giovanni,4.0,14.0,0,348.0
+10797,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10797,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10797,60,27.2,12,0.0,326.4,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,326.4
+10798,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10798,33,2.0,30,0.0,60.0,nan,0,,,,,,,,,,,,,,,,Geitost,4.0,15.0,0,60.0
+10798,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10799,7,24.0,25,0.0,600.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,600.0
+10799,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10799,52,5.6,25,0.0,140.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,140.0
+10800,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10800,18,50.0,18,0.0,900.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,900.0
+10800,43,36.8,12,0.0,441.59999999999997,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,441.59999999999997
+10851,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10851,28,36.4,18,0.0,655.1999999999999,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,655.1999999999999
+10851,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10852,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10852,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10852,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10853,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10853,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10853,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10854,1,14.4,20,0.0,288.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,288.0
+10854,18,50.0,18,0.0,900.0,nan,0,,,,,,,,,,,,,,,,Carnarvon Tigers,8.0,7.0,0,900.0
+10854,43,36.8,12,0.0,441.59999999999997,nan,0,,,,,,,,,,,,,,,,Ipoh Coffee,1.0,20.0,0,441.59999999999997
+10855,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10855,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10855,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10856,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10856,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10856,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10857,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10857,24,3.6,25,0.0,90.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,90.0
+10857,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10858,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10858,34,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,Sasquatch Ale,1.0,16.0,0,224.0
+10858,41,7.7,12,0.0,92.4,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,92.4
+10859,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10859,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10859,52,5.6,18,0.0,100.8,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,100.8
+10860,1,14.4,30,0.0,432.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,432.0
+10860,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10860,60,27.2,12,0.0,326.4,nan,0,,,,,,,,,,,,,,,,Camembert Pierrot,4.0,28.0,0,326.4
+10861,11,14.0,25,0.0,350.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,350.0
+10861,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10861,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10862,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10862,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10862,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10863,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10863,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10863,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10864,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10864,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10864,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10865,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10865,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10865,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10866,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10866,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10866,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10867,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10867,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10867,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10868,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10868,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10868,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10869,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10869,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10869,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10870,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10870,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10870,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10871,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10871,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10871,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10872,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10872,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10872,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10873,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10873,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10873,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10874,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10874,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10874,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10875,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10875,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10875,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10876,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10876,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10876,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10877,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10877,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10877,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10878,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10878,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10878,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10879,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10879,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10879,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10880,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10880,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10880,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10881,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10881,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10881,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10882,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10882,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10882,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10883,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10883,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10883,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10884,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10884,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10884,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10885,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10885,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10885,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10886,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10886,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10886,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10887,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10887,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10887,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10888,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10888,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10888,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10889,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10889,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10889,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10890,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10890,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10890,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10891,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10891,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10891,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10892,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10892,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10892,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10893,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10893,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10893,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10894,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10894,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10894,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10895,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10895,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10895,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10896,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10896,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10896,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10897,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10897,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10897,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10898,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10898,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10898,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10899,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10899,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10899,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10900,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10900,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10900,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10901,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10901,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10901,36,15.2,12,0.0,182.39999999999998,nan,0,,,,,,,,,,,,,,,,Inlagd Sill,8.0,17.0,0,182.39999999999998
+10902,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10902,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10902,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10903,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10903,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10903,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10904,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10904,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10904,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10905,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10905,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10905,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10906,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10906,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10906,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10907,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10907,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10907,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10908,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10908,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10908,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10909,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10909,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10909,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10910,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10910,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10910,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10911,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10911,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10911,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10912,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10912,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10912,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10913,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10913,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10913,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10914,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10914,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10914,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10915,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10915,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10915,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10916,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10916,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10916,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10917,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10917,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10917,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10918,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10918,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10918,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10919,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10919,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10919,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10920,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10920,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10920,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10921,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10921,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10921,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10922,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10922,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10922,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10923,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10923,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10923,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10924,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10924,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10924,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10925,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10925,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10925,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10926,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10926,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10926,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10927,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10927,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10927,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10928,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10928,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10928,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10929,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10929,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10929,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10930,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10930,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10930,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10931,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10931,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10931,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10932,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10932,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10932,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10933,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10933,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10933,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10934,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10934,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10934,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10935,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10935,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10935,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10936,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10936,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10936,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10937,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10937,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10937,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10938,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10938,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10938,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10939,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10939,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10939,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
+10940,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10940,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10940,75,6.2,25,0.0,155.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,155.0
+10941,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10941,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10941,59,44.0,10,0.0,440.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,440.0
+10942,17,31.2,25,0.0,780.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,780.0
+10942,31,10.0,20,0.0,200.0,nan,0,,,,,,,,,,,,,,,,Gorgonzola Telino,4.0,14.0,0,200.0
+10942,45,7.6,15,0.0,114.0,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,114.0
+10943,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10943,24,3.6,18,0.0,64.8,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,64.8
+10943,52,5.6,20,0.0,112.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,112.0
+10944,14,18.6,20,0.0,372.0,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,372.0
+10944,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10944,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10945,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10945,30,20.7,15,0.0,310.5,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,310.5
+10945,62,39.4,15,0.0,591.0,nan,0,,,,,,,,,,,,,,,,Tarte au sucre,3.0,29.0,0,591.0
+10946,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10946,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10946,41,7.7,20,0.0,154.0,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,154.0
+10947,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10947,32,25.6,30,0.0,768.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,768.0
+10947,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10948,1,14.4,25,0.0,360.0,nan,0,,,,,,,,,,,,,,,,Chai,1.0,1.0,0,360.0
+10948,24,3.6,20,0.0,72.0,nan,0,,,,,,,,,,,,,,,,Guaraná Fantástica,1.0,10.0,0,72.0
+10948,75,6.2,20,0.0,124.0,nan,0,,,,,,,,,,,,,,,,Rhönbräu Klosterbier,1.0,12.0,0,124.0
+10949,12,30.4,20,0.0,608.0,nan,0,,,,,,,,,,,,,,,,Queso Manchego La Pastora,4.0,5.0,0,608.0
+10949,32,25.6,25,0.0,640.0,nan,0,,,,,,,,,,,,,,,,Mascarpone Fabioli,4.0,14.0,0,640.0
+10949,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10950,17,31.2,20,0.0,624.0,nan,0,,,,,,,,,,,,,,,,Alice Mutton,6.0,7.0,0,624.0
+10950,23,7.2,20,0.0,144.0,nan,0,,,,,,,,,,,,,,,,Tunnbröd,5.0,9.0,0,144.0
+10950,45,7.6,12,0.0,91.19999999999999,nan,0,,,,,,,,,,,,,,,,Rogede sild,8.0,21.0,0,91.19999999999999
+10951,14,18.6,25,0.0,465.00000000000006,nan,0,,,,,,,,,,,,,,,,Tofu,7.0,6.0,0,465.00000000000006
+10951,28,36.4,20,0.0,728.0,nan,0,,,,,,,,,,,,,,,,Rössle Sauerkraut,7.0,12.0,0,728.0
+10951,59,44.0,12,0.0,528.0,nan,0,,,,,,,,,,,,,,,,Raclette Courdavault,4.0,28.0,0,528.0
+10952,11,14.0,20,0.0,280.0,nan,0,,,,,,,,,,,,,,,,Queso Cabrales,4.0,5.0,0,280.0
+10952,30,20.7,20,0.0,414.0,nan,0,,,,,,,,,,,,,,,,Nord-Ost Matjeshering,8.0,13.0,0,414.0
+10952,41,7.7,15,0.0,115.5,nan,0,,,,,,,,,,,,,,,,Jack's New England Clam Chowder,8.0,19.0,0,115.5
+10953,7,24.0,20,0.0,480.0,nan,0,,,,,,,,,,,,,,,,Uncle Bob's Organic Dried Pears,7.0,3.0,0,480.0
+10953,25,11.2,20,0.0,224.0,nan,0,,,,,,,,,,,,,,,,NuNuCa Nuß-Nougat-Creme,3.0,11.0,0,224.0
+10953,52,5.6,15,0.0,84.0,nan,0,,,,,,,,,,,,,,,,Filo Mix,5.0,24.0,0,84.0
